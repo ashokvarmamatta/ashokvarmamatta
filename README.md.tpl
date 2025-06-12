@@ -26,33 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,androidstudio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,firebase,aws,gcp" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,materialui,figma,react" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,flutter,nestjs,express" />
-  </a>
-</p>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgres,sqlite" />
+    <img src="https://skillicons.dev/icons?i=c,java,kotlin,python,js,androidstudio,visualstudio,vscode,html,materialui,figma,mysql,sqlite,firebase" />
   </a>
 </p>
 
