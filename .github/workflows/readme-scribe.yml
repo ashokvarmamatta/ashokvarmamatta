@@ -5,7 +5,7 @@ on:
     branches:
       - main # <--- Change 'main' to 'master' if that's your primary branch
   schedule:
-    - cron: "0 */1 * * *" # Runs every hour
+    - cron: "0 */3 * * *" # Runs every hour
 
 jobs:
   markscribe:
