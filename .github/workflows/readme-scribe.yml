@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v4 # Recommended to use v4 for checkout
 
       - name: Generate README
-        uses: muesli/readme-scribe@master
+        uses: github/readme-scribe@v1 # CORRECTED LINE HERE
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
