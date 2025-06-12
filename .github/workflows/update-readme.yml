@@ -36,7 +36,7 @@ jobs:
           token: ${{ secrets.GH_PAT }}
 
           # Options
-          user: ashes321
+          user: ashokvarmamatta
           template: classic
           base: header
           config_timezone: Asia/Kolkata
