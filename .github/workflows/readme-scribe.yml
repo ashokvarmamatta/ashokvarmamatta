@@ -2,29 +2,36 @@ name: Update README
 
 on:
   push:
+    branches:
+      - main # <--- Change 'main' to 'master' if that's your primary branch
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "0 */1 * * *" # Runs every hour
 
 jobs:
   markscribe:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: Grant write permissions for the action to commit changes
 
     steps:
-      - uses: actions/checkout@master
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Recommended to use v4 for checkout
 
-      - uses: muesli/readme-scribe@master
+      - name: Generate README
+        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           template: "README.md.tpl"
           writeTo: "README.md"
 
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
         with:
           commit_message: Update generated README
-          branch: main
+          branch: main # <--- Change 'main' to 'master' if that's your primary branch
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
