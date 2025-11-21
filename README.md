@@ -1,4 +1,4 @@
-<p align="center"><img src="./logo.jpeg" /></p>
+<p align="center"><img src="./logo.jpg" /></p>
 <div align="center">
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27A4FB&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ashok+Varma+Matta;Senior+Android+Developer;Jetpack+Compose+Expert;Clean+Architecture+Enthusiast" alt="Typing SVG" />
