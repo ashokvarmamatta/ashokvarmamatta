@@ -52,8 +52,12 @@ A fully architected media playback application designed as a reference for **Mod
 
 <br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashokvarmamatta&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+## 🏆 GitHub Stats
+<p align="center">
+  <a href="https://github.com/ashokvarmamatta">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashokvarmamatta&theme=vision-friendly-dark&hide_border=true" />
+  </a>
+</p>
 
 <br/>
 
