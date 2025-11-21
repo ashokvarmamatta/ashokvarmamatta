@@ -17,7 +17,7 @@
 
 I am a **Senior Android Developer** based in Hyderabad, India, specializing in building scalable, offline-first applications. My focus is on **Modern Android Development (MAD)** utilizing the latest Jetpack libraries.
 
-- 💼 **Current Role:** Android Developer at **Ramson Softech** (Focus: KMP & Optimization)
+- 💼 **Current Role:** Android Developer at **Ramson Softech** (Focus: MVVM , compose  & Optimization)
 - 📱 **Track Record:** 10+ Apps on Play Store | **100k+** Cumulative Downloads
 - 🧠 **Exploring:** Advanced AI Integration (Gemini API) on Mobile
 - ⚡ **Core Stack:** Kotlin, Jetpack Compose, Clean Architecture, Koin, Room
