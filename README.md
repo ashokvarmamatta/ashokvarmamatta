@@ -44,7 +44,7 @@ My expertise spans from engineering complex Media-Rich engines (Photo Editors) a
 <table>
   <tr>
     <td width="60%">
-      <h4 style="margin-top: 0;">🎬 <a href="https://github.com/ashokvarmamatta/VideoPlayer">Video Player - Clean Architecture Reference</a></h4>
+      <h4 style="margin-top: 0;">🎬 <a href="https://github.com/ashokvarmamatta/videoplayer2">Video Player - Clean Architecture Reference</a></h4>
       <p>A blueprint for <strong>Modular Software Design</strong> in Android.</p>
       <ul>
         <li><strong>Architecture:</strong> MVVM + Clean Architecture (Strict Separation)</li>
