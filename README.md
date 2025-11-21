@@ -22,8 +22,11 @@ I am a Senior Android Developer based in Hyderabad, India, specializing in devel
 My expertise spans from engineering complex Media-Rich engines (Photo Editors) and Location-Based services to architecting robust Data-Intensive systems (Room DB) and scalable Cloud-Connected solutions using Ktor/Retrofit and Koin.
 
 💼 Current Role: Android Developer at Ramson Softech (Focus: MVVM, Compose & Optimization).
+
 📱 Track Record: 10+ Apps on Play Store (GPS Maps, Photo Editors, Health Trackers) | 100k+ Downloads.
+
 🧠 Exploring: Advanced AI Integration (Gemini API) on Mobile.
+
 ⚡ Core Stack: Kotlin, Jetpack Compose, Koin, Ktor, Google Maps SDK, Room DB.
 
 <br/>
