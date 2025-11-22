@@ -25,7 +25,7 @@ My expertise spans from engineering complex Media-Rich engines (Photo Editors) a
 
 📱 Track Record: Developed & Delivered 10+ Feature-Rich Apps (GPS Maps, Photo Editors) | 100k+ Downloads
 
-🧠 Exploring: Advanced AI Integration (Gemini API) on Mobile
+🧠 Exploring: Advanced AI models Integration on Mobile
 
 ⚡ Core Stack: Kotlin, Jetpack Compose, Koin, Ktor, Google Maps SDK, Room DB
 
