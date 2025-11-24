@@ -34,7 +34,7 @@ My expertise spans from engineering complex Media-Rich engines (Photo Editors) a
 <h3>🛠️ Technologies & Tools</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,figma,firebase,sqlite,mysql,c,python,js,vscode,html,materialui&perline=14" />
+    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,figma,firebase,sqlite,mysql,c,python,js,vscode,html,materialui,github,git&perline=14" />
   </a>
 </p>
 
