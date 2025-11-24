@@ -72,6 +72,9 @@ My expertise spans from engineering complex Media-Rich engines (Photo Editors) a
 
 <br/>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ashokvarmamatta&theme=dark&no-frame=true&no-bg=true&margin-w=4)
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashokvarmamatta&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
