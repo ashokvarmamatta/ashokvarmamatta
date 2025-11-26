@@ -58,17 +58,21 @@ My expertise spans from engineering complex Media-Rich engines (Photo Editors) a
 <br/>
 
 <h3>📊 GitHub Analytics</h3>
-<div align="center">
-  <a href="https://github.com/ashokvarmamatta">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ashokvarmamatta&theme=vision-friendly-dark&hide_border=true" />
-  </a>
-  <a href="https://github.com/ashokvarmamatta">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-  </a>
-</div>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ashokvarmamatta&show_icons=true&theme=vision-friendly-dark&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=ashokvarmamatta&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokvarmamatta&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
