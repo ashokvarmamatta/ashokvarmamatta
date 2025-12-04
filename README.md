@@ -23,11 +23,11 @@ My expertise spans from engineering complex Media-Rich engines (Photo Editors) a
 
 💼 Current Role: Android Developer at Ramson Softech (Focus: MVVM, Compose & Optimization)
 
-📱 Track Record: Developed & Delivered 10+ Feature-Rich Apps (GPS Maps, Photo Editors) | 100k+ Downloads
+📱 Track Record: Developed & Delivered 10+ Feature-Rich Apps | 100k+ Downloads
 
 🧠 Exploring: Advanced AI models Integration on Mobile
 
-⚡ Core Stack: Kotlin, Jetpack Compose, Koin, Ktor, Google Maps SDK, Room DB
+⚡ Core Stack: Kotlin, Jetpack Compose, Koin, Ktor, SDK, Room DB
 
 <br/>
 
