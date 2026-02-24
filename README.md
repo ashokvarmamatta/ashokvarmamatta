@@ -44,12 +44,12 @@ My expertise spans from engineering complex Media-Rich engines (Photo Editors) a
 <table>
   <tr>
     <td width="60%">
-      <h4 style="margin-top: 0;">🎬 <a href="https://github.com/ashokvarmamatta/videoplayer2">Video Player - Clean Architecture Reference</a></h4>
-      <p>A blueprint for <strong>Modular Software Design</strong> in Android.</p>
+      <h4 style="margin-top: 0;">🌤️ <a href="https://github.com/ashokvarmamatta/WeatherShow-KMP">WeatherShow - Kotlin Multiplatform</a></h4>
+      <p>A cross-platform weather application demonstrating <strong>Kotlin Multiplatform (KMP)</strong> capabilities.</p>
       <ul>
-        <li><strong>Architecture:</strong> MVVM + Clean Architecture (Strict Separation)</li>
-        <li><strong>Tech:</strong> Kotlin, Koin (DI), Coroutines, Media3</li>
-        <li><strong>Why it matters:</strong> Demonstrates enterprise-grade scalability.</li>
+        <li><strong>Architecture:</strong> Clean Architecture + UDF/MVVM</li>
+        <li><strong>Tech:</strong> Kotlin Multiplatform, Compose Multiplatform, Ktor, Coroutines</li>
+        <li><strong>Why it matters:</strong> Showcases maximum business logic code sharing across platforms without sacrificing native performance.</li>
       </ul>
     </td>
   </tr>
