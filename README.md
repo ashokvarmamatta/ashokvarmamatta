@@ -11,6 +11,9 @@
   <a href="mailto:mashokvarma1997@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://ashokvarmamatta.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://github.com/ashokvarmamatta?tab=repositories">
     <img src="https://img.shields.io/badge/63+_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
   </a>
