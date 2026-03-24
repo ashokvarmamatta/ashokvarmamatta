@@ -186,6 +186,81 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
 </table>
 
+### 🚀 Automation, Web Scraping & Cross-Platform
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://github.com/ashokvarmamatta/automationvideogen">AutomationVideoGen — AI Video Factory</a></h4>
+      <p>Android app that <b>auto-researches topics via Gemini AI</b>, generates 32+ card designs with AI images (ComfyUI/FLUX/SD), renders videos with FFmpeg, and <b>uploads directly to YouTube</b> with scheduling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/ComfyUI-000000?style=flat-square&logo=ai&logoColor=white" />
+      </p>
+      <ul>
+        <li>Full YouTube automation: research → design → render → upload</li>
+        <li>32+ card templates with AI-generated images</li>
+        <li>Multi-provider AI (Gemini, Ollama, ComfyUI, FLUX)</li>
+        <li>Foreground service for background video rendering</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎴 <a href="https://github.com/ashokvarmamatta/carddgen_36">CardGen — Desktop Video Card Generator</a></h4>
+      <p><b>Electron + React</b> desktop app for generating anime/facts list videos with 32+ card templates, AI research via Gemini, FFmpeg rendering, and <b>direct YouTube upload</b>.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      </p>
+      <ul>
+        <li>Desktop version of the automation pipeline</li>
+        <li>Electron with native file system + IPC</li>
+        <li>Express backend for video storage & processing</li>
+        <li>AniList, Jikan, Kitsu, Shikimori API integration</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐲 <a href="https://github.com/ashokvarmamatta/pkmspawn">PkmSpawn — Pokemon GO Tracker</a></h4>
+      <p>Android app that <b>scrapes 10+ worldwide Pokemon GO maps</b> in real-time, aggregating spawn data from London, Singapore, NYC, Sydney, Tokyo & more.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Web_Scraping-FF6F00?style=flat-square&logo=scrapy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/GPX_Export-00897B?style=flat-square&logo=openstreetmap&logoColor=white" />
+      </p>
+      <ul>
+        <li>Multi-source web scraping from 10+ global Pokemon maps</li>
+        <li>Real-time spawn tracking with coordinates</li>
+        <li>GPX file generation for location data export</li>
+        <li>Background foreground services for monitoring</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⭐ <a href="https://github.com/ashokvarmamatta/family-tree-constealltion">Family Tree Constellation</a></h4>
+      <p>Interactive <b>galaxy-themed family tree visualizer</b> with D3.js force-directed graph, 22+ relationship types, Firebase auth & cloud sync.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3dotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </p>
+      <ul>
+        <li>D3.js force simulation with draggable nodes</li>
+        <li>22+ relationship types (parent, spouse, sibling, etc.)</li>
+        <li>Firebase Auth + Firestore cloud sync</li>
+        <li>Undo history, JSON editor, responsive design</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
 ### 🏢 Production Apps — Company Projects (Ramson Softech)
 
 > Apps I optimized, modernized, and scaled as part of my role. Not my personal repos — these are **live on Google Play** with real users.
@@ -281,6 +356,10 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 | [**Transparent Live Wallpaper**](https://github.com/ashokvarmamatta/TransparentLiveWallpaper) | Camera-based live wallpaper with lifecycle-safe resource management | Kotlin, Camera2, WallpaperService |
 | [**BubbleLevel**](https://github.com/ashokvarmamatta/BubbleLevel) | Precision spirit level using accelerometer sensors | Kotlin, SensorManager, Compose |
 | [**MedicineReminder**](https://github.com/ashokvarmamatta/MedicineReminder) | Health utility with scheduled notifications and tracking | Kotlin, AlarmManager, Room |
+| [**AutomationVideoGen**](https://github.com/ashokvarmamatta/automationvideogen) | AI-powered YouTube video automation pipeline | Kotlin, Gemini AI, FFmpeg, YouTube API |
+| [**CardGen**](https://github.com/ashokvarmamatta/carddgen_36) | Desktop video card generator with Electron | TypeScript, React, Electron, FFmpeg |
+| [**PkmSpawn**](https://github.com/ashokvarmamatta/pkmspawn) | Pokemon GO spawn tracker with multi-source web scraping | Kotlin, Web Scraping, Compose, GPX |
+| [**Family Tree**](https://github.com/ashokvarmamatta/family-tree-constealltion) | Galaxy-themed family tree with D3.js force graph | React, TypeScript, D3.js, Firebase |
 
 </details>
 
