@@ -277,7 +277,6 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 | [**WeatherShow KMP**](https://github.com/ashokvarmamatta/WeatherShow-KMP) | Cross-platform weather app — [Live Demo](https://weather-show-kmp.vercel.app) | KMP, Compose Multiplatform, Ktor |
 | [**QR & Barcode Scanner**](https://github.com/ashokvarmamatta/QRBarcodeScannerCreator) | ML Kit scanner with lifecycle-aware coroutines, zero resource leaks | CameraX, ML Kit, Coroutines |
 | [**GPS Village Maps**](https://github.com/ashokvarmamatta/GPSAreaMeasurement) | Dual maps API navigation with real-time GPS speedometer | Google Maps, HERE Maps, GPS |
-| [**Portfolio Creator**](https://github.com/ashokvarmamatta/portfolioCreater) | AI-powered animated portfolio generator (Three.js + GSAP) | TypeScript, React 19, Vite |
 | [**Transparent Live Wallpaper**](https://github.com/ashokvarmamatta/TransparentLiveWallpaper) | Camera-based live wallpaper with lifecycle-safe resource management | Kotlin, Camera2, WallpaperService |
 | [**BubbleLevel**](https://github.com/ashokvarmamatta/BubbleLevel) | Precision spirit level using accelerometer sensors | Kotlin, SensorManager, Compose |
 | [**MedicineReminder**](https://github.com/ashokvarmamatta/MedicineReminder) | Health utility with scheduled notifications and tracking | Kotlin, AlarmManager, Room |
