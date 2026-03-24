@@ -38,7 +38,11 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td>🧠 <b>AI & Innovation</b></td>
-    <td>On-device LLM inference • Gemini API • Multi-LLM orchestration with waterfall failover • ComfyUI pipelines</td>
+    <td>On-device LLM inference • Gemini API • Claude Code (MCPs, Agents, Skills) • Antigravity • OpenAI Codex • ComfyUI pipelines • Multi-LLM orchestration with waterfall failover</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>AI-Powered Dev</b></td>
+    <td>Vibe coding practitioner — building <b>full apps from scratch to Play Store deployment</b> (ads + subscriptions) using AI-assisted development with Claude Code, Antigravity & Codex in under 48hrs</td>
   </tr>
   <tr>
     <td>⚡ <b>Key Wins</b></td>
@@ -68,9 +72,9 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
       <sub>TypeScript • React • KMP</sub>
     </td>
     <td align="center" width="25%">
-      <b>🔧 Tools & Cloud</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,cloudflare&perline=3" /><br/>
-      <sub>Git • GitHub • Cloudflare R2</sub>
+      <b>🔧 Tools & Design</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,figma&perline=3" /><br/>
+      <sub>Git • GitHub • Figma</sub>
     </td>
   </tr>
 </table>
@@ -93,8 +97,12 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 <br/>
@@ -174,6 +182,87 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
     </td>
   </tr>
 </table>
+
+### 🏢 Production Apps — Company Projects (Ramson Softech)
+
+> Apps I optimized, modernized, and scaled as part of my role. Not my personal repos — these are **live on Google Play** with real users.
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🗺️ <a href="https://play.google.com/store/apps/details?id=com.gpsmaps.villagemaps.directions.whereami.navigation.gpsarea.location.tracker">GPS Village Maps & Navigation</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+      </p>
+      <ul>
+        <li>Reduced ANR rate by <b>38%</b> via GPS callback optimization</li>
+        <li>Cut cold start time by <b>45%</b> with lazy DI initialization</li>
+        <li>Migrated 60% of UI from XML → Compose</li>
+        <li>Integrated Google Maps + HERE Maps dual SDK</li>
+        <li>Increased DAU by <b>2.4x</b> post-optimization</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🖼️ <a href="https://play.google.com/store/apps/details?id=com.ram.transparentlivewallpaper">Transparent Live Wallpaper</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+      </p>
+      <ul>
+        <li>Fixed Camera Busy crashes — <b>92% crash reduction</b></li>
+        <li>Optimized memory by <b>35%</b> binding Glide + MediaPlayer to lifecycle</li>
+        <li>Resolved WallpaperService ↔ Camera2 lifecycle conflicts</li>
+        <li>Reduced battery drain by <b>28%</b> with frame-skip logic</li>
+        <li>User retention improved <b>1.8x</b> after stability fixes</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>📷 <a href="https://play.google.com/store/apps/details?id=com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader">QR & Barcode Scanner</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+      </p>
+      <ul>
+        <li>Eliminated <b>100%</b> of scanner resource leaks via lifecycle-aware coroutines</li>
+        <li>Scan speed improved by <b>3x</b> with thumbnail caching</li>
+        <li>Reduced APK size by <b>22%</b> removing unused ML models</li>
+        <li>Replaced AsyncTask with structured concurrency</li>
+        <li>Crash-free rate improved from 96.1% → <b>99.4%</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🤖 AI-Powered Development (Vibe Coding)
+
+> In 2025-2026, I've been actively building **full production apps from scratch to Play Store** using AI-assisted development tools — proving that AI amplifies engineering output without replacing engineering judgment.
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>🛠️ AI Tools I Use Daily</b>
+      <ul>
+        <li><b>Claude Code</b> — MCPs, Agents, Skills, Hooks for end-to-end dev workflows</li>
+        <li><b>Antigravity</b> — AI-first rapid prototyping and iteration</li>
+        <li><b>OpenAI Codex / ChatGPT</b> — Code generation, debugging, architecture reviews</li>
+        <li><b>Gemini</b> — Multimodal AI for image/video processing pipelines</li>
+        <li><b>ComfyUI</b> — Server-side AI image/video generation workflows</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <b>📱 What I Ship with AI</b>
+      <ul>
+        <li>Full Android apps: concept → architecture → code → Play Store</li>
+        <li>AdMob integration (banner, interstitial, rewarded)</li>
+        <li>Subscription flows (Google Play Billing)</li>
+        <li>Complete UI/UX in Figma → Compose translation</li>
+        <li>Average time: idea to deployed app in <b>24-48 hours</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <details>
 <summary><b>🔧 More Projects</b></summary>
