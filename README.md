@@ -41,11 +41,11 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td>🧠 <b>AI & Innovation</b></td>
-    <td>On-device LLM inference • Gemini API • Claude Code (MCPs, Agents, Skills) • Antigravity • OpenAI Codex • ComfyUI pipelines • Multi-LLM orchestration with waterfall failover</td>
+    <td>On-device LLM inference (Gemma 2B via MediaPipe) • Gemini API • ComfyUI pipelines • Multi-LLM orchestration with waterfall failover</td>
   </tr>
   <tr>
-    <td>🚀 <b>AI-Powered Dev</b></td>
-    <td>Vibe coding practitioner — building <b>full apps from scratch to Play Store deployment</b> (ads + subscriptions) using AI-assisted development with Claude Code, Antigravity & Codex in under 48hrs</td>
+    <td>🚀 <b>Dev Workflow</b></td>
+    <td>Leverages AI tools (Claude Code, Gemini) to accelerate architecture, code reviews, and rapid prototyping — shipping production-ready apps faster while maintaining engineering standards</td>
   </tr>
   <tr>
     <td>⚡ <b>Key Wins</b></td>
@@ -104,8 +104,6 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=rocket&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
 </p>
 
 <br/>
@@ -229,37 +227,6 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <li>Reduced APK size by <b>22%</b> removing unused ML models</li>
         <li>Replaced AsyncTask with structured concurrency</li>
         <li>Crash-free rate improved from 96.1% → <b>99.4%</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-### 🤖 AI-Powered Development (Vibe Coding)
-
-> In 2025-2026, I've been actively building **full production apps from scratch to Play Store** using AI-assisted development tools — proving that AI amplifies engineering output without replacing engineering judgment.
-
-<table>
-  <tr>
-    <td width="50%">
-      <b>🛠️ AI Tools I Use Daily</b>
-      <ul>
-        <li><b>Claude Code</b> — MCPs, Agents, Skills, Hooks for end-to-end dev workflows</li>
-        <li><b>Antigravity</b> — AI-first rapid prototyping and iteration</li>
-        <li><b>OpenAI Codex / ChatGPT</b> — Code generation, debugging, architecture reviews</li>
-        <li><b>Gemini</b> — Multimodal AI for image/video processing pipelines</li>
-        <li><b>ComfyUI</b> — Server-side AI image/video generation workflows</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <b>📱 What I Ship with AI</b>
-      <ul>
-        <li>Full Android apps: concept → architecture → code → Play Store</li>
-        <li>AdMob integration (banner, interstitial, rewarded)</li>
-        <li>Subscription flows (Google Play Billing)</li>
-        <li>Complete UI/UX in Figma → Compose translation</li>
-        <li>Average time: idea to deployed app in <b>24-48 hours</b></li>
       </ul>
     </td>
   </tr>
