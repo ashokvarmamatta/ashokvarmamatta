@@ -72,8 +72,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
     <td align="center" width="25%">
       <b>🌐 Web & Cross-Platform</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=kotlin,wasm,js&perline=3" /><br/>
-      <sub>KMP Wasm/JS • Compose Web • JS/TS</sub><br/>
-      <sub><i>Write: Kotlin/Wasm, Kotlin/JS &bull; Read: JS/TS</i></sub>
+      <sub>KMP Wasm/JS • Compose Web</sub>
     </td>
     <td align="center" width="25%">
       <b>🔧 Tools & Design</b><br/><br/>
