@@ -254,61 +254,6 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <br/>
 
 <!-- GITHUB_ANALYTICS_START -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%"/>
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
-</div>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username=ashokvarmamatta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats" alt="Stats" width="400" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages" alt="Languages" width="350" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashokvarmamatta&hide_border=true&background=0d1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=555555&currStreakNum=00D4AA&sideNums=00D4AA" alt="Streak" width="520" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokvarmamatta&theme=github_dark" alt="Repos/Lang" width="260" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashokvarmamatta&theme=github_dark" alt="Commits/Lang" width="260" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashokvarmamatta&theme=github_dark&utcOffset=5.5" alt="Productive Hours" width="260" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokvarmamatta&theme=github_dark" alt="Contribution Map" width="95%" />
-</p>
-
-<details>
-<summary><b>📈 Contribution Activity Graph</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokvarmamatta&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
-</p>
-</details>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ashokvarmamatta&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="95%" />
-</p>
-</details>
-
-<details>
-<summary><b>🐍 Contribution Snake</b></summary>
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" alt="Snake Animation" width="95%" />
-</p>
-</details>
 <!-- GITHUB_ANALYTICS_END -->
 
 <br/>
