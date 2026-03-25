@@ -305,9 +305,14 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <details>
 <summary><b>🐍 Contribution Snake</b></summary>
 <br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" alt="Snake Animation" width="95%" />
-</p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" alt="Snake eating contributions" width="100%" />
+</picture>
+
+<sub><b>A snake eating my contribution graph — regenerated every 12 hours</b></sub>
+</div>
 </details>
 <!-- GITHUB_ANALYTICS_END -->
 
