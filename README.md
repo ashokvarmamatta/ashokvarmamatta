@@ -311,13 +311,10 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 </details>
 
 <details>
-<summary><b>🐍 Contribution Graph</b></summary>
+<summary><b>🐍 Contribution Snake</b></summary>
 <br/>
 <p align="center">
-  <img src="https://ghchart.rshah.org/00D4AA/ashokvarmamatta" alt="Contribution Chart" width="95%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" alt="Snake Animation" width="95%" />
+  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/ocean.gif" alt="Snake Animation" width="100%" />
 </p>
 </details>
 <!-- GITHUB_ANALYTICS_END -->

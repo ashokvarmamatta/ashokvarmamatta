@@ -76,16 +76,13 @@ SERVICES = [
 </details>'''
     ),
     (
-        "contrib_chart",
-        f"https://ghchart.rshah.org/00D4AA/{USERNAME}",
+        "snake",
+        f"https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/ocean.gif",
         f'''<details>
-<summary><b>🐍 Contribution Graph</b></summary>
+<summary><b>🐍 Contribution Snake</b></summary>
 <br/>
 <p align="center">
-  <img src="https://ghchart.rshah.org/00D4AA/{USERNAME}" alt="Contribution Chart" width="95%" />
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg" alt="Snake Animation" width="95%" />
+  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/ocean.gif" alt="Snake Animation" width="100%" />
 </p>
 </details>'''
     ),
