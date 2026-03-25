@@ -303,16 +303,22 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 </details>
 
 <details>
-<summary><b>🐍 Contribution Snake</b></summary>
+<summary><b>🧊 3D Contribution Calendar</b></summary>
 <br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" alt="Snake eating contributions" width="100%" />
-</picture>
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/ashokvarmamatta?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=50&dark=true&widget_size=large" alt="3D Contributions" width="95%" />
+</p>
+</details>
 
-<sub><b>A snake eating my contribution graph — regenerated every 12 hours</b></sub>
-</div>
+<details>
+<summary><b>🐍 Contribution Graph</b></summary>
+<br/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D4AA/ashokvarmamatta" alt="Contribution Chart" width="95%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" alt="Snake Animation" width="95%" />
+</p>
 </details>
 <!-- GITHUB_ANALYTICS_END -->
 

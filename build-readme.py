@@ -65,19 +65,28 @@ SERVICES = [
 </details>'''
     ),
     (
-        "snake",
-        f"https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg",
+        "contrib_3d",
+        f"https://ssr-contributions-svg.vercel.app/_/{USERNAME}?chart=3dbar&format=svg&weeks=50&dark=true",
         f'''<details>
-<summary><b>🐍 Contribution Snake</b></summary>
+<summary><b>🧊 3D Contribution Calendar</b></summary>
 <br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg" alt="Snake eating contributions" width="100%" />
-</picture>
-
-<sub><b>A snake eating my contribution graph — regenerated every 12 hours</b></sub>
-</div>
+<p align="center">
+  <img src="https://ssr-contributions-svg.vercel.app/_/{USERNAME}?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=50&dark=true&widget_size=large" alt="3D Contributions" width="95%" />
+</p>
+</details>'''
+    ),
+    (
+        "contrib_chart",
+        f"https://ghchart.rshah.org/00D4AA/{USERNAME}",
+        f'''<details>
+<summary><b>🐍 Contribution Graph</b></summary>
+<br/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/00D4AA/{USERNAME}" alt="Contribution Chart" width="95%" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg" alt="Snake Animation" width="95%" />
+</p>
 </details>'''
     ),
 ]
