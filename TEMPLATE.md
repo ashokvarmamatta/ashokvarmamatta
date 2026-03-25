@@ -262,5 +262,5 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20Something%20Great&fontSize=16&fontColor=00D4AA&fontAlignY=65&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4AA,100:7C5CFC&height=100&section=footer&text=Let's%20Build%20Something%20Great&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
 </div>
