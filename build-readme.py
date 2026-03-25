@@ -43,17 +43,6 @@ SERVICES = [
 </p>'''
     ),
     (
-        "activity_graph",
-        f"https://github-readme-activity-graph.vercel.app/graph?username={USERNAME}",
-        f'''<details>
-<summary><b>📈 Contribution Activity Graph</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={USERNAME}&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
-</p>
-</details>'''
-    ),
-    (
         "trophies",
         f"https://github-trophies.vercel.app/?username={USERNAME}&theme=algolia",
         f'''<details>
@@ -61,6 +50,17 @@ SERVICES = [
 <br/>
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username={USERNAME}&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="95%" />
+</p>
+</details>'''
+    ),
+    (
+        "activity_graph",
+        f"https://github-readme-activity-graph.vercel.app/graph?username={USERNAME}",
+        f'''<details>
+<summary><b>📈 Contribution Activity Graph</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username={USERNAME}&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
 </p>
 </details>'''
     ),
