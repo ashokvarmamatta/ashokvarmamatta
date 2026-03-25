@@ -71,8 +71,9 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
     </td>
     <td align="center" width="25%">
       <b>🌐 Web & Cross-Platform</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,react,js&perline=3" /><br/>
-      <sub>TypeScript • React • KMP</sub>
+      <img src="https://skillicons.dev/icons?i=kotlin,wasm,js&perline=3" /><br/>
+      <sub>KMP Wasm/JS • Compose Web • JS/TS</sub><br/>
+      <sub><i>Write: Kotlin/Wasm, Kotlin/JS &bull; Read: JS/TS</i></sub>
     </td>
     <td align="center" width="25%">
       <b>🔧 Tools & Design</b><br/><br/>
@@ -85,6 +86,9 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <p align="center">
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%2FWasm-7F52FF?style=flat-square&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin%2FJS-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" />
+  <img src="https://img.shields.io/badge/Compose_Web-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/Koin_DI-F88909?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
@@ -287,18 +291,18 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 </p>
 
 <details>
-<summary><b>📈 Contribution Activity Graph</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokvarmamatta&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
-</p>
-</details>
-
-<details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=ashokvarmamatta&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="95%" />
+</p>
+</details>
+
+<details>
+<summary><b>📈 Contribution Activity Graph</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokvarmamatta&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
 </p>
 </details>
 
