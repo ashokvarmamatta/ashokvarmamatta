@@ -314,7 +314,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <summary><b>🐍 Contribution Snake</b></summary>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/ocean.gif" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 </details>
 <!-- GITHUB_ANALYTICS_END -->
