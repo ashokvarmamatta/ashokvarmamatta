@@ -77,12 +77,12 @@ SERVICES = [
     ),
     (
         "snake",
-        f"https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/ocean.gif",
+        f"https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg",
         f'''<details>
 <summary><b>🐍 Contribution Snake</b></summary>
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/ocean.gif" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 </details>'''
     ),
