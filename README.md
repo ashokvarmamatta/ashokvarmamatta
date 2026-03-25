@@ -253,30 +253,57 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 
 <br/>
 
-<h3>📊 GitHub Analytics</h3>
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username=ashokvarmamatta&show_icons=true&theme=tokyonight&hide_border=true&title_color=00D4AA&icon_color=00D4AA&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=tokyonight&hide_border=true&title_color=00D4AA&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=ashokvarmamatta&theme=tokyonight&hide_border=true&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokvarmamatta&theme=tokyonight" alt="Contribution Graph" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" width="100%"/>
+
+</div>
+
+<!-- ═══════════ ROW 1: Stats + Languages side by side ═══════════ -->
+<p align="center">
+  <a href="https://github.com/ashokvarmamatta">
+    <img width="49%" src="https://github-readme-stats-gamma-one-20.vercel.app/api?username=ashokvarmamatta&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=Ashok's+GitHub+Stats" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ashokvarmamatta">
+    <img width="49%" src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=8&custom_title=Most+Used+Languages" alt="Top Languages" />
+  </a>
+</p>
+
+<!-- ═══════════ ROW 2: Streak Stats (Full Width) ═══════════ -->
+<p align="center">
+  <a href="https://github.com/ashokvarmamatta">
+    <img width="70%" src="https://streak-stats.demolab.com?user=ashokvarmamatta&theme=radical&hide_border=true&background=0d1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=555555&currStreakNum=00D4AA&sideNums=00D4AA" alt="GitHub Streak" />
+  </a>
+</p>
+
+<!-- ═══════════ ROW 3: Activity Graph (Full Width) ═══════════ -->
+<p align="center">
+  <a href="https://github.com/ashokvarmamatta">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ashokvarmamatta&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
+  </a>
+</p>
+
+<!-- ═══════════ ROW 4: Profile Summary Cards ═══════════ -->
+<p align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokvarmamatta&theme=radical&exclude=html" alt="Repos per Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashokvarmamatta&theme=radical" alt="Most Commit Language" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashokvarmamatta&theme=radical&utcOffset=5.5" alt="Productive Time" />
+</p>
+
+<!-- ═══════════ ROW 5: Profile Detail Card ═══════════ -->
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokvarmamatta&theme=radical" alt="Contribution Graph" />
+</p>
+
+<!-- ═══════════ ROW 6: Trophies ═══════════ -->
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=ashokvarmamatta&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub Trophies" />
+</p>
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4AA&height=80&section=footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20Something%20Great&fontSize=16&fontColor=00D4AA&fontAlignY=65&animation=twinkling" width="100%"/>
+</div>
