@@ -118,20 +118,18 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/ashokvarmamatta/ZeroClawAndroid">ZeroClawAndroid — AI Agent Daemon</a></h4>
-      <p>24/7 AI daemon for Android — <b>11 messaging channels</b>, <b>30 opt-in AI tools</b>, <b>25+ autonomous agent templates</b> with 21 free API sources, an OpenAI-compatible API server, and offline on-device inference. Everything is modular — enable only what you need.</p>
+      <p>Always-on AI daemon for Android — <b>11 channels</b>, <b>30 tools</b>, <b>25+ agent templates</b>, and an OpenAI-compatible API server. Modular and opt-in.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/Multi--LLM-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/11_Channels-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
       <ul>
-        <li>11 channels: Telegram, Discord, Slack, WhatsApp, Matrix, Teams, Twitch, LINE, IRC, Signal, WebChat</li>
-        <li>Autonomous agents: web scraping + free APIs (CoinGecko, wttr.in, etc.) with scheduled delivery</li>
-        <li>API server on port 8088 — drop-in OpenAI replacement for any app</li>
-        <li>Offline AI via MediaPipe with JNI crash prevention (Mutex serialization)</li>
-        <li>Multi-provider LLM failover: Gemini, OpenAI, Anthropic, OpenRouter, Ollama</li>
+        <li>Multi-provider LLM failover (Gemini, OpenAI, Anthropic, Ollama)</li>
+        <li>Autonomous agents with 21 free API sources + web scraping</li>
+        <li>API server on port 8088 — drop-in OpenAI replacement</li>
+        <li>Offline on-device inference via MediaPipe</li>
       </ul>
     </td>
     <td width="50%" valign="top">
