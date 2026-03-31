@@ -117,19 +117,20 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/ashokvarmamatta/ZeroClawAndroid">ZeroClawAndroid — AI Assistant on Your Phone</a></h4>
-      <p>An Android app that runs AI <b>24/7 in the background</b> — connects to Telegram, Discord, WhatsApp and 8 more chat apps. You pick what features to turn on.</p>
+      <h4>🤖 <a href="https://github.com/ashokvarmamatta/ZeroClawAndroid">ZeroClawAndroid — AI Agent Daemon</a></h4>
+      <p>Android-native AI background daemon running <b>24/7 as a foreground service</b>, connecting Telegram and WhatsApp (via Twilio) to multiple LLMs with automatic <b>waterfall failover</b> and Cloudflare Tunnel integration.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/Multi--LLM-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
       <ul>
-        <li>Works with multiple AI providers (Gemini, OpenAI, Anthropic, etc.)</li>
-        <li>30 tools — web search, translate, image gen, RSS, and more</li>
-        <li>Auto-agents that monitor websites and send you updates</li>
-        <li>Works offline too — runs AI directly on the phone</li>
+        <li>Multi-LLM orchestration with auto-failover across providers</li>
+        <li>Always-on foreground service with lifecycle management</li>
+        <li>Secure tunneling via Cloudflare for remote access</li>
+        <li><b>1.1M+ lines</b> of Kotlin — production-grade daemon architecture</li>
       </ul>
     </td>
     <td width="50%" valign="top">
