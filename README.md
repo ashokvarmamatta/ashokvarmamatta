@@ -135,21 +135,20 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎬 <a href="https://github.com/ashokvarmamatta/automationVIdeoGen">Neural Forge — AI Video Automation</a></h4>
-      <p>Android app that <b>automates YouTube video production</b> — AI-researched content, auto-generated cards, FFmpeg rendering, metadata generation, and scheduled YouTube uploads. Connects to ZeroClaw for LLM routing.</p>
+      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Wallpaper Citra (Visual Cosmos)</a></h4>
+      <p>High-performance wallpaper application utilizing <b>Cloudflare R2 buckets</b> for efficient, scalable image storage and rapid asset delivery with offline-first architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Coil-000000?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM-00897B?style=flat-square&logo=android&logoColor=white" />
       </p>
       <ul>
-        <li>AI research → card generation → video rendering → YouTube upload pipeline</li>
-        <li>ZeroClaw integration for local LLM routing with JSON mode</li>
-        <li>ComfyUI integration for AI image generation (Flux, Stable Diffusion)</li>
-        <li>Truncated JSON repair for smaller model responses</li>
-        <li>Foreground service with resumable uploads and scheduled publishing</li>
+        <li>Cloudflare R2 for scalable, CDN-backed image delivery</li>
+        <li>Offline-first with local Room DB — no Account & Sync overhead</li>
+        <li>Faster load times and enhanced user privacy by design</li>
+        <li>Robust bitmap management to prevent OOM crashes</li>
       </ul>
     </td>
   </tr>
