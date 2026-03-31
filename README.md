@@ -117,8 +117,8 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/ashokvarmamatta/ZeroClawAndroid">ZeroClawAndroid — AI Agent Daemon</a></h4>
-      <p>Always-on AI daemon for Android — <b>11 channels</b>, <b>30 tools</b>, <b>25+ agent templates</b>, and an OpenAI-compatible API server. Modular and opt-in.</p>
+      <h4>🤖 <a href="https://github.com/ashokvarmamatta/ZeroClawAndroid">ZeroClawAndroid — AI Assistant on Your Phone</a></h4>
+      <p>An Android app that runs AI <b>24/7 in the background</b> — connects to Telegram, Discord, WhatsApp and 8 more chat apps. You pick what features to turn on.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
@@ -126,10 +126,10 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <img src="https://img.shields.io/badge/Multi--LLM-412991?style=flat-square&logo=openai&logoColor=white" />
       </p>
       <ul>
-        <li>Multi-provider LLM failover (Gemini, OpenAI, Anthropic, Ollama)</li>
-        <li>Autonomous agents with 21 free API sources + web scraping</li>
-        <li>API server on port 8088 — drop-in OpenAI replacement</li>
-        <li>Offline on-device inference via MediaPipe</li>
+        <li>Works with multiple AI providers (Gemini, OpenAI, Anthropic, etc.)</li>
+        <li>30 tools — web search, translate, image gen, RSS, and more</li>
+        <li>Auto-agents that monitor websites and send you updates</li>
+        <li>Works offline too — runs AI directly on the phone</li>
       </ul>
     </td>
     <td width="50%" valign="top">
