@@ -118,36 +118,38 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/ashokvarmamatta/ZeroClawAndroid">ZeroClawAndroid — AI Agent Daemon</a></h4>
-      <p>Android-native AI background daemon running <b>24/7 as a foreground service</b>, connecting Telegram and WhatsApp (via Twilio) to multiple LLMs with automatic <b>waterfall failover</b> and Cloudflare Tunnel integration.</p>
+      <p>24/7 AI daemon for Android — <b>11 messaging channels</b>, <b>30 opt-in AI tools</b>, <b>25+ autonomous agent templates</b> with 21 free API sources, an OpenAI-compatible API server, and offline on-device inference. Everything is modular — enable only what you need.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi--LLM-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/11_Channels-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
       </p>
       <ul>
-        <li>Multi-LLM orchestration with auto-failover across providers</li>
-        <li>Always-on foreground service with lifecycle management</li>
-        <li>Secure tunneling via Cloudflare for remote access</li>
-        <li><b>1.1M+ lines</b> of Kotlin — production-grade daemon architecture</li>
+        <li>11 channels: Telegram, Discord, Slack, WhatsApp, Matrix, Teams, Twitch, LINE, IRC, Signal, WebChat</li>
+        <li>Autonomous agents: web scraping + free APIs (CoinGecko, wttr.in, etc.) with scheduled delivery</li>
+        <li>API server on port 8088 — drop-in OpenAI replacement for any app</li>
+        <li>Offline AI via MediaPipe with JNI crash prevention (Mutex serialization)</li>
+        <li>Multi-provider LLM failover: Gemini, OpenAI, Anthropic, OpenRouter, Ollama</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Wallpaper Citra (Visual Cosmos)</a></h4>
-      <p>High-performance wallpaper application utilizing <b>Cloudflare R2 buckets</b> for efficient, scalable image storage and rapid asset delivery with offline-first architecture.</p>
+      <h4>🎬 <a href="https://github.com/ashokvarmamatta/automationVIdeoGen">Neural Forge — AI Video Automation</a></h4>
+      <p>Android app that <b>automates YouTube video production</b> — AI-researched content, auto-generated cards, FFmpeg rendering, metadata generation, and scheduled YouTube uploads. Connects to ZeroClaw for LLM routing.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Coil-000000?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/MVVM-00897B?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/YouTube_API-FF0000?style=flat-square&logo=youtube&logoColor=white" />
       </p>
       <ul>
-        <li>Cloudflare R2 for scalable, CDN-backed image delivery</li>
-        <li>Offline-first with local Room DB — no Account & Sync overhead</li>
-        <li>Faster load times and enhanced user privacy by design</li>
-        <li>Robust bitmap management to prevent OOM crashes</li>
+        <li>AI research → card generation → video rendering → YouTube upload pipeline</li>
+        <li>ZeroClaw integration for local LLM routing with JSON mode</li>
+        <li>ComfyUI integration for AI image generation (Flux, Stable Diffusion)</li>
+        <li>Truncated JSON repair for smaller model responses</li>
+        <li>Foreground service with resumable uploads and scheduled publishing</li>
       </ul>
     </td>
   </tr>
