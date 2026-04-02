@@ -112,28 +112,6 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 
 <br/>
 
-### 🚀 Flagship Production Apps
-
-> **Built from scratch to production** — designed, developed, and shipped independently to Google Play Store.
-
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
-        <img src="https://play-lh.googleusercontent.com/GyTq3FgtjBbCVnOKhT4O9TuNVXI3u3F7WlrX9GvT7aJMW-EUoNknxLhGpfgxlYIvCA=w240-h480" width="80" align="left" alt="Chitra App Icon" />
-      </a>
-      <b>Chitra: AI Wallpapers</b><br/>
-      AI-powered wallpaper app with curated collections, built end-to-end — from architecture design to Play Store release.<br/>
-      <em>Kotlin • Jetpack Compose • Cloudflare R2 • Room DB • MVVM • Clean Architecture</em><br/><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
-        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ### 🌱 Featured Engineering Projects
 
 <table>
@@ -254,6 +232,25 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <li>Replaced AsyncTask with structured concurrency</li>
         <li>Crash-free rate improved from 96.1% → <b>99.4%</b></li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+### 🚀 My Production Apps — Shipped to Google Play
+
+> **Built from scratch to production** — designed, architected, developed, and shipped independently.
+
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Chitra-00D4AA?style=for-the-badge&logo=android&logoColor=white" />
+      <br/><br/>
+      <b>Chitra: AI Wallpapers</b><br/>
+      AI-powered wallpaper app with curated collections, built end-to-end — from architecture design to Google Play Store release.<br/>
+      <em>Kotlin • Jetpack Compose • Cloudflare R2 • Room DB • MVVM • Clean Architecture</em><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250" />
+      </a>
     </td>
   </tr>
 </table>
