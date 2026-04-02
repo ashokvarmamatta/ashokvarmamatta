@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Professional Profile
 
-I am a **Senior Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing.
+I am a **Senior Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing. **I build apps from scratch to production** — my latest personal release, [**Chitra: AI Wallpapers**](https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos), is live on Google Play now.
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td>🚀 <b>Production Impact</b></td>
-    <td>Engineered <b>20+ apps</b> across <b>63 repositories</b> — media players, AI agents, wallpaper engines, scanners, navigation tools</td>
+    <td>Engineered <b>20+ apps</b> across <b>63 repositories</b> — including <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos"><b>Chitra: AI Wallpapers (Live on Play Store)</b></a>. End-to-end: ideation → architecture → development → deployment</td>
   </tr>
   <tr>
     <td>🏗️ <b>Architecture</b></td>
@@ -112,7 +112,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 
 <br/>
 
-### 🌱 Featured Engineering Projects
+### 🌟 Featured Engineering Projects
 
 <table>
   <tr>
@@ -134,19 +134,19 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Wallpaper Citra (Visual Cosmos)</a></h4>
+      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Chitra — Cross-Platform Wallpaper Engine (KMP)</a></h4>
       <p>High-performance wallpaper application utilizing <b>Cloudflare R2 buckets</b> for efficient, scalable image storage and rapid asset delivery with offline-first architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Coil-000000?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/MVVM-00897B?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Coil_3-000000?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Voyager-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       </p>
       <ul>
+        <li>Compose Multiplatform: Android, Desktop (JVM), Web (Wasm/JS)</li>
         <li>Cloudflare R2 for scalable, CDN-backed image delivery</li>
         <li>Offline-first with local Room DB — no Account & Sync overhead</li>
-        <li>Faster load times and enhanced user privacy by design</li>
         <li>Robust bitmap management to prevent OOM crashes</li>
       </ul>
     </td>
@@ -221,7 +221,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>📷 <a href="https://play.google.com/store/apps/details?id=com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader">QR & Barcode Scanner</a></h4>
+      <h4>📸 <a href="https://play.google.com/store/apps/details?id=com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader">QR & Barcode Scanner</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
       </p>
@@ -232,6 +232,33 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <li>Replaced AsyncTask with structured concurrency</li>
         <li>Crash-free rate improved from 96.1% → <b>99.4%</b></li>
       </ul>
+    </td>
+  </tr>
+</table>
+
+### 🚀 My Production Apps — Shipped to Google Play
+
+> **Built from scratch to production** — designed, architected, developed, and shipped independently.
+
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
+        <img src="https://play-lh.googleusercontent.com/Iv03utZCQVH3RHz2Hh9A9xqKq6aUU-eiskPmhIe3fsfQfXmWfCwY-gIkuAXmvdnbI25rRW02th65Qtk9lbw8=w240-h480" width="80" align="left" alt="Chitra App Icon" />
+      </a>
+      <b>Chitra: AI Wallpapers</b><br/>
+      AI-powered wallpaper app with curated collections, built end-to-end — from architecture design to Google Play Store release.<br/>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM-00897B?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      </p>
+      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250" />
+      </a>
     </td>
   </tr>
 </table>
