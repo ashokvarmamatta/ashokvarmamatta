@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Professional Profile
 
-I am a **Senior Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing. **I build apps from scratch to production** — my latest release, [**Chitra: AI Wallpapers**](https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos), is live on Google Play now.
+I am a **Senior Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing. **I build apps from scratch to production** — my latest personal release, [**Chitra: AI Wallpapers**](https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos), is live on Google Play now.
 
 <table>
   <tr>
@@ -112,6 +112,28 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 
 <br/>
 
+### 🚀 Flagship Production Apps
+
+> **Built from scratch to production** — designed, developed, and shipped independently to Google Play Store.
+
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
+        <img src="https://play-lh.googleusercontent.com/GyTq3FgtjBbCVnOKhT4O9TuNVXI3u3F7WlrX9GvT7aJMW-EUoNknxLhGpfgxlYIvCA=w240-h480" width="80" align="left" alt="Chitra App Icon" />
+      </a>
+      <b>Chitra: AI Wallpapers</b><br/>
+      AI-powered wallpaper app with curated collections, built end-to-end — from architecture design to Play Store release.<br/>
+      <em>Kotlin • Jetpack Compose • Cloudflare R2 • Room DB • MVVM • Clean Architecture</em><br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ### 🌱 Featured Engineering Projects
 
 <table>
@@ -134,13 +156,8 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Chitra: AI Wallpapers — Live on Google Play</a></h4>
-      <p>
-        <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
-          <img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
-        </a>
-      </p>
-      <p>AI-powered wallpaper engine built from <b>scratch to production</b> — designed, developed, and shipped to Google Play Store. Compose Multiplatform app running on <b>Android, Desktop (JVM), and Web (Wasm/JS)</b> from a single Kotlin codebase with Cloudflare R2 CDN.</p>
+      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Chitra — Cross-Platform Wallpaper Engine (KMP)</a></h4>
+      <p>High-performance wallpaper application utilizing <b>Cloudflare R2 buckets</b> for efficient, scalable image storage and rapid asset delivery with offline-first architecture.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
@@ -149,10 +166,10 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <img src="https://img.shields.io/badge/Voyager-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       </p>
       <ul>
-        <li><b>End-to-end delivery:</b> Scratch → Architecture → Development → Play Store</li>
-        <li>Cross-platform: Android, Desktop, Web from single codebase</li>
+        <li>Compose Multiplatform: Android, Desktop (JVM), Web (Wasm/JS)</li>
         <li>Cloudflare R2 for scalable, CDN-backed image delivery</li>
-        <li>Offline-first with Room DB — zero account overhead</li>
+        <li>Offline-first with local Room DB — no Account & Sync overhead</li>
+        <li>Robust bitmap management to prevent OOM crashes</li>
       </ul>
     </td>
   </tr>
