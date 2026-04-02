@@ -243,11 +243,19 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <table>
   <tr>
     <td align="left">
-      <img src="https://img.shields.io/badge/Chitra-00D4AA?style=for-the-badge&logo=android&logoColor=white" />
-      <br/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
+        <img src="https://play-lh.googleusercontent.com/Iv03utZCQVH3RHz2Hh9A9xqKq6aUU-eiskPmhIe3fsfQfXmWfCwY-gIkuAXmvdnbI25rRW02th65Qtk9lbw8=w240-h480" width="80" align="left" alt="Chitra App Icon" />
+      </a>
       <b>Chitra: AI Wallpapers</b><br/>
       AI-powered wallpaper app with curated collections, built end-to-end — from architecture design to Google Play Store release.<br/>
-      <em>Kotlin • Jetpack Compose • Cloudflare R2 • Room DB • MVVM • Clean Architecture</em><br/><br/>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM-00897B?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      </p>
       <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
         <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250" />
       </a>
