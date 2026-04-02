@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Professional Profile
 
-I am a **Senior Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing.
+I am a **Senior Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing. **I build apps from scratch to production** — my latest release, [**Chitra: AI Wallpapers**](https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos), is live on Google Play now.
 
 <table>
   <tr>
@@ -33,7 +33,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td>🚀 <b>Production Impact</b></td>
-    <td>Engineered <b>20+ apps</b> across <b>63 repositories</b> — media players, AI agents, wallpaper engines, scanners, navigation tools</td>
+    <td>Engineered <b>20+ apps</b> across <b>63 repositories</b> — including <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos"><b>Chitra: AI Wallpapers (Live on Play Store)</b></a>. End-to-end: ideation → architecture → development → deployment</td>
   </tr>
   <tr>
     <td>🏗️ <b>Architecture</b></td>
@@ -134,20 +134,25 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Wallpaper Citra (Visual Cosmos)</a></h4>
-      <p>High-performance wallpaper application utilizing <b>Cloudflare R2 buckets</b> for efficient, scalable image storage and rapid asset delivery with offline-first architecture.</p>
+      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Chitra: AI Wallpapers — Live on Google Play</a></h4>
+      <p>
+        <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
+          <img src="https://img.shields.io/badge/Google_Play-Live-34A853?style=for-the-badge&logo=googleplay&logoColor=white" />
+        </a>
+      </p>
+      <p>AI-powered wallpaper engine built from <b>scratch to production</b> — designed, developed, and shipped to Google Play Store. Compose Multiplatform app running on <b>Android, Desktop (JVM), and Web (Wasm/JS)</b> from a single Kotlin codebase with Cloudflare R2 CDN.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Coil-000000?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/MVVM-00897B?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Coil_3-000000?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Voyager-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       </p>
       <ul>
+        <li><b>End-to-end delivery:</b> Scratch → Architecture → Development → Play Store</li>
+        <li>Cross-platform: Android, Desktop, Web from single codebase</li>
         <li>Cloudflare R2 for scalable, CDN-backed image delivery</li>
-        <li>Offline-first with local Room DB — no Account & Sync overhead</li>
-        <li>Faster load times and enhanced user privacy by design</li>
-        <li>Robust bitmap management to prevent OOM crashes</li>
+        <li>Offline-first with Room DB — zero account overhead</li>
       </ul>
     </td>
   </tr>
