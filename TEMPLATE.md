@@ -273,9 +273,8 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 |---------|-------------|------|
 | [**ProPlayer**](https://github.com/ashokvarmamatta/videoplayer2) | Feature-rich video player with PiP, gestures, subtitles, playlists | Compose, ExoPlayer, Koin, Room |
 | [**WeatherShow KMP**](https://github.com/ashokvarmamatta/WeatherShow-KMP) | Cross-platform weather app — [Live Demo](https://weather-show-kmp.vercel.app) | KMP, Compose Multiplatform, Ktor |
-| [**QR & Barcode Scanner**](https://github.com/ashokvarmamatta/QRBarcodeScannerCreator) | ML Kit scanner with lifecycle-aware coroutines, zero resource leaks | CameraX, ML Kit, Coroutines |
-| [**GPS Village Maps**](https://github.com/ashokvarmamatta/GPSAreaMeasurement) | Dual maps API navigation with real-time GPS speedometer | Google Maps, HERE Maps, GPS |
-| [**Transparent Live Wallpaper**](https://github.com/ashokvarmamatta/TransparentLiveWallpaper) | Camera-based live wallpaper with lifecycle-safe resource management | Kotlin, Camera2, WallpaperService |
+| [**To Do List Live Wallpaper**](https://github.com/ashokvarmamatta/To_Do_List_Live_Wallpaper) | Interactive live wallpaper displaying to-do tasks on home screen | Kotlin, WallpaperService, Compose |
+| [**GalleryLatest**](https://github.com/ashokvarmamatta/GalleryLatest) | Feature-rich gallery app with GPU-powered image filters and editing | Java, GPU Image, MediaStore |
 | [**BubbleLevel**](https://github.com/ashokvarmamatta/BubbleLevel) | Precision spirit level using accelerometer sensors | Kotlin, SensorManager, Compose |
 | [**MedicineReminder**](https://github.com/ashokvarmamatta/MedicineReminder) | Health utility with scheduled notifications and tracking | Kotlin, AlarmManager, Room |
 | [**PkmSpawn**](https://github.com/ashokvarmamatta/pkmspawn) | Pokemon GO spawn tracker with multi-source web scraping | Kotlin, Web Scraping, Compose, GPX |
