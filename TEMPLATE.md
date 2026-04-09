@@ -41,7 +41,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td>🧠 <b>AI & Innovation</b></td>
-    <td>On-device Gemma 4 (LiteRT LM — vision, audio, thinking) • Gemini API • ComfyUI pipelines • Multi-LLM orchestration with waterfall failover</td>
+    <td>On-device AI that works without internet (Gemma 4) • Cloud AI integration (Gemini, OpenAI) • Image & audio analysis on-phone • Multi-AI provider failover</td>
   </tr>
   <tr>
     <td>🚀 <b>Dev Workflow</b></td>
@@ -118,19 +118,19 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   <tr>
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/ashokvarmamatta/ZeroClawAndroid">ZeroClawAndroid — AI Agent Daemon</a></h4>
-      <p>Android-native AI daemon with <b>on-device Gemma 4 (LiteRT LM)</b> + multi-provider cloud LLMs. Telegram & WhatsApp integration, 30+ tools, <b>waterfall failover</b>, and Cloudflare Tunnel.</p>
+      <p>An always-on Android AI assistant that runs <b>24/7 in the background</b>. Chat with AI through Telegram or WhatsApp — it can <b>analyze images, read documents, browse the web</b>, and auto-switches between 5+ AI providers if one fails. Works <b>offline with Gemma 4</b> on your phone, or online with cloud AI.</p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemma_4_LiteRT_LM-FF6F00?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLM_Orchestration-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare_Tunnel-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemma_4-FF6F00?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
+        <img src="https://img.shields.io/badge/Multi--LLM-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
       <ul>
-        <li>On-device Gemma 4 vision + audio + thinking via LiteRT LM (visionBackend=GPU)</li>
-        <li>Multi-LLM orchestration with auto-failover across 5+ providers</li>
-        <li>Model config dialog: TopK, TopP, Temperature, MaxTokens, Thinking toggle</li>
-        <li>30+ tools, chat history (Room DB), streaming, Cloudflare Tunnel</li>
+        <li>Runs Gemma 4 AI directly on phone — analyzes images & audio without internet</li>
+        <li>Connects to Telegram & WhatsApp — reply to messages with AI automatically</li>
+        <li>30+ built-in tools: web search, PDF reader, code runner, image analysis</li>
+        <li>If one AI provider fails, automatically tries the next — zero downtime</li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -153,19 +153,19 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/ashokvarmamatta/MEDHA">MEDHA — On-Device AI with Gemma 4</a></h4>
-      <p>Privacy-first AI chat running <b>Gemma 4 on-device via LiteRT LM</b> — vision, audio, thinking mode, 32K context. Grand Masters AI personas, multi-API key failover, model catalog. <b>Zero data collection.</b></p>
+      <h4>🧠 <a href="https://github.com/ashokvarmamatta/MEDHA">MEDHA — On-Device AI Chat</a></h4>
+      <p>A private AI chat app that runs <b>entirely on your Android phone — no internet needed</b>. Chat with Google's Gemma 4 AI offline, <b>analyze photos, understand audio</b>, and use expert AI personas (Chess coach, Code guru, Career mentor). Optional cloud mode for faster responses. <b>Your data never leaves your device.</b></p>
       <p>
-        <img src="https://img.shields.io/badge/Kotlin_2.2-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemma_4_LiteRT_LM-FF6F00?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemma_4-FF6F00?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
       </p>
       <ul>
-        <li>Gemma 4 on-device: vision (GPU), audio, thinking, streaming, 32K context</li>
-        <li>5 downloadable models, config dialog (TopK/TopP/Temp/GPU), token stats</li>
-        <li>Grand Masters: 4 built-in + custom AI personas with chat persistence</li>
-        <li>Multi-API key failover, chat history (Room DB), 24 Quick Actions</li>
+        <li>Chat with AI 100% offline — no internet, no cloud, no data collection</li>
+        <li>Analyze images & audio on-device using Gemma 4 vision (GPU-accelerated)</li>
+        <li>4 expert AI personas + create your own custom AI specialists</li>
+        <li>5 downloadable models, chat history, 24 quick-action templates</li>
       </ul>
       <p><img src="https://img.shields.io/github/stars/ashokvarmamatta/MEDHA?style=flat-square&color=FFD700&label=Stars" /></p>
     </td>
