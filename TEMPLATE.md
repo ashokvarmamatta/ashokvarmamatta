@@ -167,7 +167,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <li>Grand Masters: 4 built-in + custom AI personas with chat persistence</li>
         <li>Multi-API key failover, chat history (Room DB), 24 Quick Actions</li>
       </ul>
-      <p>⭐ 2 Stars</p>
+      <p><img src="https://img.shields.io/github/stars/ashokvarmamatta/MEDHA?style=flat-square&color=FFD700&label=Stars" /></p>
     </td>
     <td width="50%" valign="top">
       <h4>📱 <a href="https://github.com/ashokvarmamatta/ANTAR">ANTAR — Device Info Analytics</a></h4>
