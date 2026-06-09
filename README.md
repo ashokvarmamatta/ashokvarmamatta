@@ -294,10 +294,10 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username=ashokvarmamatta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats" alt="Stats" width="400" />
+      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username=ashokvarmamatta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats&exclude_repo=Advance-Hearing-App" alt="Stats" width="400" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages" alt="Languages" width="350" />
+      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages&exclude_repo=Advance-Hearing-App" alt="Languages" width="350" />
     </td>
   </tr>
 </table>
