@@ -8,6 +8,7 @@ import urllib.request
 import sys
 
 USERNAME = "ashokvarmamatta"
+EXCLUDE_REPOS = "Advance-Hearing-App"  # hidden from stats & language cards
 
 # ── Services to check ──────────────────────────────────────────────
 # Each entry: (name, test_url, markdown_block)
@@ -128,22 +129,22 @@ def build_analytics(alive: dict) -> str:
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username={USERNAME}&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats" alt="Stats" width="400" />
+      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username={USERNAME}&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats&exclude_repo={EXCLUDE_REPOS}" alt="Stats" width="400" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages" alt="Languages" width="350" />
+      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages&exclude_repo={EXCLUDE_REPOS}" alt="Languages" width="350" />
     </td>
   </tr>
 </table>''')
     elif stats_up:
         parts.append(f'''
 <p align="center">
-  <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username={USERNAME}&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats" alt="Stats" width="520" />
+  <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username={USERNAME}&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats&exclude_repo={EXCLUDE_REPOS}" alt="Stats" width="520" />
 </p>''')
     elif langs_up:
         parts.append(f'''
 <p align="center">
-  <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages" alt="Languages" width="520" />
+  <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages&exclude_repo={EXCLUDE_REPOS}" alt="Languages" width="520" />
 </p>''')
 
     # Remaining services — just include their block if alive
