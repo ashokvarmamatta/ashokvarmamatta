@@ -303,6 +303,10 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 </table>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=ashokvarmamatta&hide_border=true&background=0d1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=555555&currStreakNum=00D4AA&sideNums=00D4AA" alt="Streak" width="520" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokvarmamatta&theme=github_dark" alt="Repos/Lang" width="260" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashokvarmamatta&theme=github_dark" alt="Commits/Lang" width="260" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashokvarmamatta&theme=github_dark&utcOffset=5.5" alt="Productive Hours" width="260" />
