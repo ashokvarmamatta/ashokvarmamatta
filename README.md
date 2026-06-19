@@ -190,7 +190,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   <tr>
     <td colspan="2" valign="top">
       <h4>📰 <a href="https://tech.ashokvarma.dev">IOTL Tech</a> &nbsp;·&nbsp; <a href="https://tech.ashokvarma.dev"><b>🔗 Live</b></a></h4>
-      <p>An image-led dev &amp; AI news gallery across 10 tracks, with an AI pipeline + Cloudflare edge. &nbsp;
+      <p>An AI agent tracks the latest in dev &amp; AI across 10 tracks — <b>watch live at <a href="https://tech.ashokvarma.dev">tech.ashokvarma.dev</a></b>. &nbsp;
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
         <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
