@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ashokvarmamatta?tab=repositories">
-    <img src="https://img.shields.io/badge/63+_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+    <img src="https://img.shields.io/badge/20+_Apps_Shipped-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apps Shipped" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ashokvarmamatta&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -33,7 +33,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td>🚀 <b>Production Impact</b></td>
-    <td>Engineered <b>20+ apps</b> across <b>63 repositories</b> — including <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos"><b>Chitra: AI Wallpapers (Live on Play Store)</b></a>. End-to-end: ideation → architecture → development → deployment</td>
+    <td>Engineered <b>20+ apps</b> end-to-end — including <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos"><b>Chitra: AI Wallpapers (Live on Play Store)</b></a>. From ideation → architecture → development → deployment</td>
   </tr>
   <tr>
     <td>🏗️ <b>Architecture</b></td>
@@ -41,11 +41,11 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td>🧠 <b>AI & Innovation</b></td>
-    <td>On-device AI that works without internet (Gemma 4) • Cloud AI integration (Gemini, OpenAI) • Image & audio analysis on-phone • Multi-AI provider failover</td>
+    <td>On-device AI that works without internet (Gemma 4 via Google LiteRT LM) • Cloud AI integration (Gemini, OpenAI) • Image & audio analysis on-phone • Multi-AI provider failover</td>
   </tr>
   <tr>
     <td>🚀 <b>Dev Workflow</b></td>
-    <td>Leverages AI tools (Claude Code, Gemini) to accelerate architecture, code reviews, and rapid prototyping — shipping production-ready apps faster while maintaining engineering standards</td>
+    <td>Uses AI tooling (Claude Code, Gemini) to accelerate architecture, code reviews, and rapid prototyping — shipping production-ready apps faster while maintaining engineering standards</td>
   </tr>
   <tr>
     <td>⚡ <b>Key Wins</b></td>
@@ -154,10 +154,11 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   <tr>
     <td width="50%" valign="top">
       <h4>🧠 <a href="https://github.com/ashokvarmamatta/MEDHA">MEDHA — On-Device AI Chat</a></h4>
-      <p>A private AI chat app that runs <b>entirely on your Android phone — no internet needed</b>. Chat with Google's Gemma 4 AI offline, <b>analyze photos, understand audio</b>, and use expert AI personas (Chess coach, Code guru, Career mentor). Optional cloud mode for faster responses. <b>Your data never leaves your device.</b></p>
+      <p>A private AI chat app that runs <b>entirely on your Android phone — no internet needed</b>. Chat with Google's Gemma 4 offline (via the <b>LiteRT LM</b> engine), <b>analyze photos, understand audio</b>, and use expert AI personas (Chess coach, Code guru, Career mentor). Optional Gemini cloud mode for faster responses. <b>Your data never leaves your device.</b></p>
       <p>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemma_4-FF6F00?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/LiteRT_LM-FF6F00?style=flat-square&logo=google&logoColor=white" />
         <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
         <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
       </p>
@@ -204,7 +205,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <li>Cut cold start time by <b>45%</b> with lazy DI initialization</li>
         <li>Migrated 60% of UI from XML → Compose</li>
         <li>Integrated Google Maps + HERE Maps dual SDK</li>
-        <li>Increased DAU by <b>2.4x</b> post-optimization</li>
+        <li>Increased DAU by <b>2.4x</b> post-optimization (Firebase Analytics)</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -214,10 +215,10 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
       </p>
       <ul>
         <li>Fixed Camera Busy crashes — <b>92% crash reduction</b></li>
-        <li>Optimized memory by <b>35%</b> binding Glide + MediaPlayer to lifecycle</li>
+        <li>Reduced memory footprint by binding Glide + MediaPlayer to lifecycle</li>
         <li>Resolved WallpaperService ↔ Camera2 lifecycle conflicts</li>
-        <li>Reduced battery drain by <b>28%</b> with frame-skip logic</li>
-        <li>User retention improved <b>1.8x</b> after stability fixes</li>
+        <li>Improved battery efficiency with frame-skip rendering logic</li>
+        <li>User retention improved <b>1.8x</b> after stability fixes (Firebase Analytics)</li>
       </ul>
     </td>
     <td width="33%" valign="top">
