@@ -189,22 +189,12 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h4>📰 <a href="https://tech.ashokvarma.dev">IOTL Tech — Dev &amp; AI News Pulse</a> &nbsp;·&nbsp; <a href="https://tech.ashokvarma.dev"><b>🔗 Live at tech.ashokvarma.dev</b></a></h4>
-      <p>An <b>image-led news gallery</b> tracking the latest across <b>10 dev &amp; AI tracks</b> (Compose, Kotlin, Python, Android, KMP, on-device AI, agentic AI, LLMs, Swift/iOS, Flutter). A fully <b>automated content pipeline</b> researches the news, writes a 100–200 word summary, and <b>generates a 1:1 illustration per item</b>, then publishes to Cloudflare R2 and serves it through an <b>origin-locked Worker</b>. Part of the IOTL family (IOTL Anime, IOTL Games).</p>
-      <p>
+      <h4>📰 <a href="https://tech.ashokvarma.dev">IOTL Tech</a> &nbsp;·&nbsp; <a href="https://tech.ashokvarma.dev"><b>🔗 Live</b></a></h4>
+      <p>An image-led dev &amp; AI news gallery across 10 tracks, with an AI pipeline + Cloudflare edge. &nbsp;
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/R2_Storage-F6821F?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI_Pipeline-412991?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
       </p>
-      <ul>
-        <li>Automated pipeline: research → summaries → 1:1 AI images → Cloudflare R2 feed</li>
-        <li>Dark editorial gallery (React + Vite) with per-item detail pages &amp; SEO</li>
-        <li>Origin-locked Cloudflare Worker — only the site can read the feed (CORS allowlist)</li>
-        <li>Rolling 25 per category with dedup; two JSON manifests served from the edge</li>
-      </ul>
     </td>
   </tr>
 </table>
