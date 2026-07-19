@@ -328,6 +328,14 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 </p>
 
 <details>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br/>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ashokvarmamatta&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="95%" />
+</p>
+</details>
+
+<details>
 <summary><b>📈 Contribution Activity Graph</b></summary>
 <br/>
 <p align="center">
