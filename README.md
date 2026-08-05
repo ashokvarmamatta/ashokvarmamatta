@@ -313,10 +313,6 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashokvarmamatta&hide_border=true&background=0d1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=555555&currStreakNum=00D4AA&sideNums=00D4AA" alt="Streak" width="520" />
-</p>
-
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
