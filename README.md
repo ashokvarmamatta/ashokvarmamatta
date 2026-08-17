@@ -313,16 +313,6 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokvarmamatta&theme=github_dark" alt="Repos/Lang" width="260" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashokvarmamatta&theme=github_dark" alt="Commits/Lang" width="260" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashokvarmamatta&theme=github_dark&utcOffset=5.5" alt="Productive Hours" width="260" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokvarmamatta&theme=github_dark" alt="Contribution Map" width="95%" />
-</p>
-
 <details>
 <summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
