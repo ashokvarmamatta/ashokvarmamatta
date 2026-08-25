@@ -332,14 +332,6 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 </details>
 
 <details>
-<summary><b>📈 Contribution Activity Graph</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashokvarmamatta&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
-</p>
-</details>
-
-<details>
 <summary><b>🧊 3D Contribution Calendar</b></summary>
 <br/>
 <p align="center">
