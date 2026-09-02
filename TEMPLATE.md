@@ -1,7 +1,7 @@
 <p align="center"><img src="./logo.jpg" /></p>
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=550&lines=Senior+Android+Developer+%7C+4%2B+Years;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+KMP;On-Device+AI+%E2%80%A2+Clean+Architecture;Building+Apps+That+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=550&lines=Android+Developer+%7C+4%2B+Years;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+KMP;On-Device+AI+%E2%80%A2+Clean+Architecture;Building+Apps+That+Scale" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,11 +11,14 @@
   <a href="mailto:mashokvarma1997@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://ashokvarmamatta.github.io/portfolio/" target="_blank">
+  <a href="https://ashokvarma.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ashokvarmamatta?tab=repositories">
-    <img src="https://img.shields.io/badge/20+_Apps_Shipped-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apps Shipped" />
+    <img src="https://img.shields.io/badge/20+_Apps_Built-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apps Built" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
+    <img src="https://img.shields.io/badge/6_Live_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live on Google Play" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ashokvarmamatta&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -24,7 +27,7 @@
 
 ### 👨‍💻 Professional Profile
 
-I am a **Senior Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing. **I build apps from scratch to production** — my latest personal release, [**Chitra: AI Wallpapers**](https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos), is live on Google Play now.
+I am an **Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing. **I build apps from scratch to production** — my latest personal release, [**Chitra: AI Wallpapers**](https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos), is live on Google Play now.
 
 <table>
   <tr>
@@ -33,7 +36,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
   </tr>
   <tr>
     <td>🚀 <b>Production Impact</b></td>
-    <td>Engineered <b>20+ apps</b> end-to-end — including <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos"><b>Chitra: AI Wallpapers (Live on Play Store)</b></a>. From ideation → architecture → development → deployment</td>
+    <td><b>18 production apps at Ramson Softech</b> — architecture, feature build, SDK integration, performance and crash work on apps live on Google Play. <b>2 apps shipped solo end-to-end</b> on my own Play account — <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos"><b>Chitra: AI Wallpapers</b></a> and <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.system.core.internals.antar"><b>ANTAR</b></a> — ideation → architecture → development → release</td>
   </tr>
   <tr>
     <td>🏗️ <b>Architecture</b></td>
@@ -205,7 +208,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4>🗺️ <a href="https://play.google.com/store/apps/details?id=com.gpsmaps.villagemaps.directions.whereami.navigation.gpsarea.location.tracker">GPS Village Maps & Navigation</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
@@ -218,7 +221,7 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <li>Increased DAU by <b>2.4x</b> post-optimization (Firebase Analytics)</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h4>🖼️ <a href="https://play.google.com/store/apps/details?id=com.ram.transparentlivewallpaper">Transparent Live Wallpaper</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
@@ -231,7 +234,9 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <li>User retention improved <b>1.8x</b> after stability fixes (Firebase Analytics)</li>
       </ul>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h4>📸 <a href="https://play.google.com/store/apps/details?id=com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader">QR & Barcode Scanner</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
@@ -242,6 +247,20 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
         <li>Reduced APK size by <b>22%</b> removing unused ML models</li>
         <li>Replaced AsyncTask with structured concurrency</li>
         <li>Crash-free rate improved from 96.1% → <b>99.4%</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎬 <a href="https://play.google.com/store/apps/details?id=com.rms.videoplayerai.allformat.playvideo">Video AI Player — All Format</a></h4>
+      <p>
+        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+        <img src="https://img.shields.io/badge/Media3_%2F_ExoPlayer-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+      </p>
+      <ul>
+        <li>All-format video playback built on <b>Media3 / ExoPlayer</b></li>
+        <li>Player lifecycle &amp; surface management — release on background, restore on resume</li>
+        <li>Playback controls: gestures, subtitle track selection, playback speed</li>
+        <li>Media scanning via <b>MediaStore</b> with scoped-storage compliant access</li>
+        <li>Built and handed over for release <b>July 2026</b></li>
       </ul>
     </td>
   </tr>
@@ -272,7 +291,37 @@ I am a **Senior Android Developer** based in Hyderabad, India, specializing in h
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="left">
+      <b>ANTAR — Device Analytics</b><br/>
+      Device intelligence utility surfacing 44+ hardware sensors and real-time system state. Designed, built and released solo.<br/>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
+        <img src="https://img.shields.io/badge/Koin_DI-F88909?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sensors-FF5722?style=flat-square&logo=android&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+      </p>
+      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.system.core.internals.antar">
+        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250" />
+      </a>
+    </td>
+  </tr>
 </table>
+
+<br/>
+
+### ✍️ Writing — Guides I've Published
+
+> Notes I write while figuring things out, published so the next person doesn't have to.
+
+| Guide | Topic | ⭐ |
+|---|---|---|
+| [**graphify-mcp-guide**](https://gist.github.com/ashokvarmamatta) | Knowledge graphs + MCP for AI editors | **15** ★ · 3 forks |
+| [**GEMMA4_ON_DEVICE_GUIDE**](https://gist.github.com/ashokvarmamatta) | Running Gemma 4 on Android via the LiteRT LM SDK | — |
+| [**agentic-android-vault-guide**](https://gist.github.com/ashokvarmamatta) | Building an MCP knowledge vault for Android development | — |
+| [**cloudflare-tunnel-android-guide**](https://gist.github.com/ashokvarmamatta) | Exposing an Android device through Cloudflare tunnels | — |
+| [**connect-ai-to-your-app**](https://gist.github.com/ashokvarmamatta) | Multi-provider AI integration cookbook for Android | — |
 
 <br/>
 
