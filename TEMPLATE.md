@@ -254,13 +254,16 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
         <img src="https://img.shields.io/badge/Media3_%2F_ExoPlayer-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Cast-4285F4?style=flat-square&logo=googlecast&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hilt_DI-3DDC84?style=flat-square&logo=android&logoColor=white" />
       </p>
       <ul>
-        <li>All-format video playback built on <b>Media3 / ExoPlayer</b></li>
-        <li>Player lifecycle &amp; surface management — release on background, restore on resume</li>
-        <li>Playback controls: gestures, subtitle track selection, playback speed</li>
-        <li>Media scanning via <b>MediaStore</b> with scoped-storage compliant access</li>
-        <li>Built and handed over for release <b>July 2026</b></li>
+        <li><b>Media3 / ExoPlayer</b> with <b>HLS, DASH and RTSP</b> — local files plus adaptive network streams</li>
+        <li><b>Google Cast</b> with an embedded <b>NanoHTTPD</b> media server, so on-device files stream to a Chromecast</li>
+        <li>Background playback via <b>MediaSessionService</b> foreground service + <b>Picture-in-Picture</b></li>
+        <li>In-app video editing and export on the <b>Media3 Transformer + Effect</b> pipeline</li>
+        <li>Dialogue Boost built on the <b>LoudnessEnhancer</b> audio effect</li>
+        <li>Compose + Material 3 • Hilt • Room • DataStore • Glance widget • Firebase Analytics + Crashlytics • minSdk 26 / targetSdk 36</li>
       </ul>
     </td>
   </tr>
@@ -317,7 +320,7 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
 
 | Guide | Topic | ⭐ |
 |---|---|---|
-| [**graphify-mcp-guide**](https://gist.github.com/ashokvarmamatta) | Knowledge graphs + MCP for AI editors | **15** ★ · 3 forks |
+| [**graphify-mcp-guide**](https://gist.github.com/ashokvarmamatta/344a642e8b5bd286be605a8f439c3848) | Building knowledge graphs + MCP servers so dev tools can navigate a codebase | **57** ★ · 10 forks |
 | [**GEMMA4_ON_DEVICE_GUIDE**](https://gist.github.com/ashokvarmamatta) | Running Gemma 4 on Android via the LiteRT LM SDK | — |
 | [**agentic-android-vault-guide**](https://gist.github.com/ashokvarmamatta) | Building an MCP knowledge vault for Android development | — |
 | [**cloudflare-tunnel-android-guide**](https://gist.github.com/ashokvarmamatta) | Exposing an Android device through Cloudflare tunnels | — |
