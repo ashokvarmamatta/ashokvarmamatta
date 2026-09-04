@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/20+_Apps_Built-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apps Built" />
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
-    <img src="https://img.shields.io/badge/6_Live_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live on Google Play" />
+    <img src="https://img.shields.io/badge/2_Solo_Apps_Live_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live on Google Play" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ashokvarmamatta&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
 </p>
@@ -44,11 +44,11 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
   </tr>
   <tr>
     <td>🧠 <b>AI & Innovation</b></td>
-    <td>On-device AI that works without internet (Gemma 4 via Google LiteRT LM) • Cloud AI integration (Gemini, OpenAI) • Image & audio analysis on-phone • Multi-AI provider failover</td>
+    <td><b>ML Kit GenAI on-device summarization shipped in a production app</b> • On-device AI that works without internet (Gemma 4 via Google LiteRT LM) • LiteRT super-resolution with GPU delegation • ML Kit segmentation, OCR, translation, entity extraction • Cloud AI integration (Gemini, OpenAI) • Multi-AI provider failover</td>
   </tr>
   <tr>
     <td>🚀 <b>Dev Workflow</b></td>
-    <td>Uses AI tooling (Claude Code, Gemini) to accelerate architecture, code reviews, and rapid prototyping — shipping production-ready apps faster while maintaining engineering standards</td>
+    <td>AI tooling (Claude Code, Gemini) for <b>code review, test scaffolding, refactoring and research</b> — the architecture decisions, on-device debugging and production fixes stay hands-on. I monitor crashes, reproduce them on real devices, and fix them myself</td>
   </tr>
   <tr>
     <td>⚡ <b>Key Wins</b></td>
@@ -99,6 +99,8 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
   <img src="https://img.shields.io/badge/Coil_3-000000?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/CameraX-34A853?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML_Kit_GenAI-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LiteRT-FF6F00?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM_%2F_MVI-00897B?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
@@ -223,10 +225,10 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h4>🖼️ <a href="https://play.google.com/store/apps/details?id=com.ram.transparentlivewallpaper">Transparent Live Wallpaper</a></h4>
+      <h4>🖼️ <a href="https://play.google.com/store/apps/details?id=com.ram.transparentlivewallpaper">Transparent Live Wallpaper</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.raisingapps.transparentlauncher.screenlivewallpaper">Transparent Camera Screen</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
-        <img src="https://img.shields.io/badge/10M%2B_installs-3DDC84?style=flat-square&logo=googleplay&logoColor=white" />
+        <img src="https://img.shields.io/badge/10M%2B_installs_each-3DDC84?style=flat-square&logo=googleplay&logoColor=white" />
       </p>
       <ul>
         <li>Fixed Camera Busy crashes — <b>92% crash reduction</b></li>
