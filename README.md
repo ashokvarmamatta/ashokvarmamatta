@@ -212,8 +212,6 @@ on apps that do not have one yet.
 |---|---|---|
 | [ProPlayer](https://github.com/ashokvarmamatta/videoplayer2) | Video player — PiP, gestures, subtitles, playlists | Compose, ExoPlayer, Koin, Room |
 | [WeatherShow KMP](https://github.com/ashokvarmamatta/WeatherShow-KMP) | Cross-platform weather — [live demo](https://weather-show-kmp.vercel.app) | KMP, Compose Multiplatform, Ktor |
-| [To Do List Live Wallpaper](https://github.com/ashokvarmamatta/To_Do_List_Live_Wallpaper) | Tasks rendered onto the home screen | Kotlin, WallpaperService |
-| [BubbleLevel](https://github.com/ashokvarmamatta/BubbleLevel) | Spirit level from accelerometer data | Kotlin, SensorManager, Compose |
 | [MedicineReminder](https://github.com/ashokvarmamatta/MedicineReminder) | Scheduled notifications and tracking | Kotlin, AlarmManager, Room |
 
 </details>
