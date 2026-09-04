@@ -1,64 +1,119 @@
-<p align="center"><img src="./logo.jpg" /></p>
-<div align="center">
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D4AA&center=true&vCenter=true&width=550&lines=Android+Developer+%7C+4%2B+Years;Kotlin+%E2%80%A2+Jetpack+Compose+%E2%80%A2+KMP;On-Device+AI+%E2%80%A2+Clean+Architecture;Building+Apps+That+Scale" alt="Typing SVG" />
-</div>
-
+<h1 align="center">Matta Ashok Varma</h1>
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashokvarmamatta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mashokvarma1997@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://ashokvarma.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ashokvarmamatta?tab=repositories">
-    <img src="https://img.shields.io/badge/20+_Apps_Built-181717?style=for-the-badge&logo=github&logoColor=white" alt="Apps Built" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
-    <img src="https://img.shields.io/badge/2_Solo_Apps_Live_on_Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Live on Google Play" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ashokvarmamatta&label=Profile%20Views&color=00D4AA&style=for-the-badge" alt="Profile Views" />
+  <b>Android Developer · Kotlin · Jetpack Compose · On-Device AI</b><br/>
+  Hyderabad, India · 4 years shipping native Android
+</p>
+<p align="center">
+  <a href="https://ashokvarma.dev/"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ashokvarmamatta"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mashokvarma1997@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Open_to_Senior_Android_roles-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-<hr/>
+I build native Android at **Ramson Softech**, Hyderabad. I work on consumer apps past **10M and
+5M installs**, ship my own to Google Play, and most of my current work is **AI running on the
+device rather than a server** — ML Kit GenAI and Gemma 4 through LiteRT, in production.
 
-### 👨‍💻 Professional Profile
+| | |
+|---|---|
+| **92%** fewer crashes | found a `WallpaperService` ↔ `Camera2` ownership conflict across lifecycle transitions · app has **10M+ installs** |
+| **ANR −38%**, cold start **−45%** | GPS callbacks arriving faster than they were consumed, plus lazy DI · **5M+ installs** |
+| crash-free 96.1% → **99.4%**, APK **−22%** | lifecycle-aware coroutines, removed unused ML model binaries |
+| **ML Kit GenAI** on-device summarization | shipped in a production app |
 
-I am an **Android Developer** based in Hyderabad, India, specializing in high-performance native applications using **Kotlin, Jetpack Compose, Kotlin Multiplatform (KMP), and Koin**. I architect scalable, production-ready systems with deep expertise in hardware integration, on-device AI, and background processing. **I build apps from scratch to production** — my latest personal release, [**Chitra: AI Wallpapers**](https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos), is live on Google Play now.
+**Open to Senior Android roles** — Hyderabad or remote. Kotlin, Compose, Media3, on-device AI.
+
+---
+
+## 🟢 On Google Play — designed, built and released solo
 
 <table>
-  <tr>
-    <td>💼 <b>Current Role</b></td>
-    <td>Android Developer at <b>Ramson Softech Pvt Ltd</b> (Feb 2022 — Present)</td>
-  </tr>
-  <tr>
-    <td>🚀 <b>Production Impact</b></td>
-    <td><b>18 production apps at Ramson Softech</b> — architecture, feature build, SDK integration, performance and crash work on apps live on Google Play. <b>2 apps shipped solo end-to-end</b> on my own Play account — <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos"><b>Chitra: AI Wallpapers</b></a> and <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.system.core.internals.antar"><b>ANTAR</b></a> — ideation → architecture → development → release</td>
-  </tr>
-  <tr>
-    <td>🏗️ <b>Architecture</b></td>
-    <td>Clean Architecture • MVVM/MVI • Offline-First • Lifecycle-Aware Concurrency</td>
-  </tr>
-  <tr>
-    <td>🧠 <b>AI & Innovation</b></td>
-    <td><b>ML Kit GenAI on-device summarization shipped in a production app</b> • On-device AI that works without internet (Gemma 4 via Google LiteRT LM) • LiteRT super-resolution with GPU delegation • ML Kit segmentation, OCR, translation, entity extraction • Cloud AI integration (Gemini, OpenAI) • Multi-AI provider failover</td>
-  </tr>
-  <tr>
-    <td>🚀 <b>Dev Workflow</b></td>
-    <td>AI-assisted for <b>code review, test scaffolding, refactoring and research</b>. Architecture, on-device debugging and production fixes are hands-on — I reproduce crashes on real devices and fix them myself</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Key Wins</b></td>
-    <td>Migrated legacy XML → Compose • Eliminated OOM crashes in media services • Scaled assets via Cloudflare R2</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**[ANTAR — Device Analytics](https://play.google.com/store/apps/details?id=com.ashes.dev.works.system.core.internals.antar)**
+· [source](https://github.com/ashokvarmamatta/ANTAR)
+
+44+ hardware sensors surfaced as real-time `StateFlow` streams, dual-SIM detection, GPS
+satellite tracking, custom Compose Canvas charts. Released through a tag-triggered GitHub
+Actions pipeline.
+
+`Kotlin` `Compose` `Canvas` `SensorManager` `Clean Architecture` `GitHub Actions`
+
+</td>
+<td width="50%" valign="top">
+
+**[Chitra — AI Wallpapers](https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos)**
+· [KMP engine](https://github.com/ashokvarmamatta/Chitra)
+
+Curated collections delivered over a Cloudflare R2 CDN with an offline-first Room cache. The
+open-source engine runs the same Kotlin codebase on Android, Desktop (JVM) and Web (Wasm/JS).
+
+`Kotlin` `Compose Multiplatform` `Cloudflare R2` `Room` `Ktor` `Voyager`
+
+</td>
+</tr>
 </table>
+
+*Two more built and waiting to upload.*
+
+## Open source
+
+**[MEDHA — On-Device AI Chat](https://github.com/ashokvarmamatta/MEDHA)**
+LLM inference on the phone with no network at all — **Gemma 4 (E2B) via Google LiteRT LM**,
+GPU-accelerated, handling text, vision and audio. Optional Gemini path with multi-key failover.
+`Kotlin` `LiteRT LM` `Gemma 4` `Compose` `Koin` `Room`
+
+**[ZeroClawAndroid — Always-On Agent Daemon](https://github.com/ashokvarmamatta/ZeroClawAndroid)**
+An Android foreground service that stays alive, bridging Telegram and WhatsApp to multiple model
+providers with automatic waterfall failover, reachable over a Cloudflare Tunnel.
+`Kotlin` `Foreground Services` `Ktor` `Cloudflare Tunnel` `Multi-LLM`
+
+---
+
+<details>
+<summary><h2 style="display:inline">🔍 Engineering log — things that broke, and why</h2></summary>
 
 <br/>
 
-### 🛠️ Core Technologies
+> A running list. I add to it as I hit things worth writing down.
+
+**Casting a file the receiver cannot see**
+A Chromecast has no access to the phone's filesystem, so "cast this local video" is not a
+playback problem — it is a networking one. The app runs an embedded **NanoHTTPD** server and
+hands the receiver a URL on the phone's own LAN address. Media3 covers HLS, DASH and RTSP for
+the streams it can reach directly. *(Video AI Player)*
+
+**A camera that was never free**
+A live wallpaper kept dying with Camera Busy. The cause was `WallpaperService` and `Camera2`
+disagreeing about who owned the camera across lifecycle transitions — not a camera bug. Binding
+acquisition to the surface lifecycle and releasing on every teardown path took crashes down
+**92%** on an app with 10M+ installs.
+
+**ANRs that were not in the UI thread's own work**
+A maps app was blocking on GPS callbacks arriving faster than they were consumed. Restructuring
+the callback path and moving DI to lazy initialization cut **ANR 38%** and **cold start 45%**.
+
+**Sign-in that failed as "cancelled by user"**
+Google Sign-In through Credential Manager bounced with no picker, and Firestore threw
+`Unknown calling package name`. Neither message points at the cause: the build machine's debug
+**SHA-1 was not registered** in the Firebase project. Two more that cost time on the same flow —
+Credential Manager needs an **Activity** context to draw the picker, not the application context;
+and Firebase requires a **recent login** before it will delete an account, so deletion has to
+re-authenticate and retry.
+
+**A model format that stopped loading on Android 15**
+Android 15's 16 KB memory page size broke the existing TFLite path. Migrating to **LiteRT** and
+re-checking GPU delegation restored on-device super-resolution.
+
+**Paging that returned zero rows without erroring**
+A Firestore query succeeded and came back empty. Adding an `orderBy` on a field outside the
+equality filters had quietly pushed it off the automatic single-field indexes. Filter-only
+queries, ordered by document id, need no composite index.
+
+</details>
+
+## 🛠️ Core Technologies
 
 <table>
   <tr>
@@ -89,325 +144,80 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
   <img src="https://img.shields.io/badge/KMP-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin%2FWasm-7F52FF?style=flat-square&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin%2FJS-F7DF1E?style=flat-square&logo=kotlin&logoColor=black" />
   <img src="https://img.shields.io/badge/Compose_Web-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Koin_DI-F88909?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hilt_%26_Koin-F88909?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Coroutines_%26_Flow-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExoPlayer_%2F_Media3-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Media3_%2F_ExoPlayer-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cast-4285F4?style=flat-square&logo=googlecast&logoColor=white" />
   <img src="https://img.shields.io/badge/Ktor-087CFA?style=flat-square&logo=ktor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retrofit_%2F_OkHttp-48B983?style=flat-square&logo=square&logoColor=white" />
   <img src="https://img.shields.io/badge/Coil_3-000000?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/CameraX-34A853?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/ML_Kit_GenAI-4285F4?style=flat-square&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/LiteRT-FF6F00?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biometric_%2F_OAuth-D14836?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/MVVM_%2F_MVI-00897B?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
-<br/>
+<sub align="center">AI-assisted for code review, test scaffolding, refactoring and research. Architecture, on-device debugging and production fixes are hands-on — I reproduce crashes on real devices and fix them myself.</sub>
 
-### 🌟 Featured Engineering Projects
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 <a href="https://github.com/ashokvarmamatta/ZeroClawAndroid">ZeroClawAndroid — AI Agent Daemon</a></h4>
-      <p>An always-on Android AI assistant that runs <b>24/7 in the background</b>. Chat with AI through Telegram or WhatsApp — it can <b>analyze images, read documents, browse the web</b>, and auto-switches between 5+ AI providers if one fails. Works <b>offline with Gemma 4</b> on your phone, or online with cloud AI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemma_4-FF6F00?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" />
-        <img src="https://img.shields.io/badge/Multi--LLM-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-      </p>
-      <ul>
-        <li>Runs Gemma 4 AI directly on phone — analyzes images & audio without internet</li>
-        <li>Connects to Telegram & WhatsApp — reply to messages with AI automatically</li>
-        <li>30+ built-in tools: web search, PDF reader, code runner, image analysis</li>
-        <li>If one AI provider fails, automatically tries the next — zero downtime</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎨 <a href="https://github.com/ashokvarmamatta/Chitra">Chitra — Cross-Platform Wallpaper Engine (KMP)</a></h4>
-      <p>High-performance wallpaper application utilizing <b>Cloudflare R2 buckets</b> for efficient, scalable image storage and rapid asset delivery with offline-first architecture.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Compose_Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/Coil_3-000000?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Voyager-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-      </p>
-      <ul>
-        <li>Compose Multiplatform: Android, Desktop (JVM), Web (Wasm/JS)</li>
-        <li>Cloudflare R2 for scalable, CDN-backed image delivery</li>
-        <li>Offline-first with local Room DB — no Account & Sync overhead</li>
-        <li>Robust bitmap management to prevent OOM crashes</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🧠 <a href="https://github.com/ashokvarmamatta/MEDHA">MEDHA — On-Device AI Chat</a></h4>
-      <p>A private AI chat app that runs <b>entirely on your Android phone — no internet needed</b>. Chat with Google's Gemma 4 offline (via the <b>LiteRT LM</b> engine), <b>analyze photos, understand audio</b>, and use expert AI personas (Chess coach, Code guru, Career mentor). Optional Gemini cloud mode for faster responses. <b>Your data never leaves your device.</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemma_4-FF6F00?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/LiteRT_LM-FF6F00?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
-        <img src="https://img.shields.io/badge/Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-      </p>
-      <ul>
-        <li>Chat with AI 100% offline — no internet, no cloud, no data collection</li>
-        <li>Analyze images & audio on-device using Gemma 4 vision (GPU-accelerated)</li>
-        <li>4 expert AI personas + create your own custom AI specialists</li>
-        <li>5 downloadable models, chat history, 24 quick-action templates</li>
-      </ul>
-      <p><img src="https://img.shields.io/github/stars/ashokvarmamatta/MEDHA?style=flat-square&color=FFD700&label=Stars" /></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 <a href="https://github.com/ashokvarmamatta/ANTAR">ANTAR — Device Info Analytics</a></h4>
-      <p>Comprehensive device analytics utility surfacing <b>deep hardware metrics</b> with complex data streams for real-time system monitoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sensors-FF5722?style=flat-square&logo=android&logoColor=white" />
-      </p>
-      <ul>
-        <li>Dual SIM status detection with real-time data streams</li>
-        <li>WiFi safety value monitoring and signal analysis</li>
-        <li>Dynamic runtime permission handling natively</li>
-        <li>Deep hardware sensor integration and analytics</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h4>📰 <a href="https://tech.ashokvarma.dev">IOTL Tech</a> &nbsp;·&nbsp; <a href="https://tech.ashokvarma.dev"><b>🔗 Live</b></a></h4>
-      <p>An AI agent tracks the latest in dev &amp; AI across 10 tracks — <b>watch live at <a href="https://tech.ashokvarma.dev">tech.ashokvarma.dev</a></b>. &nbsp;
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
+## At Ramson Softech — apps I work on with the team
 
-### 🏢 Production Apps — Company Projects (Ramson Softech)
+> Company apps, not my repos. The improvements and the numbers are mine; the products are theirs.
 
-> Apps I optimized, modernized, and scaled as part of my role. Not my personal repos — these are **live on Google Play**, with **10M+ and 5M+ installs** on the two largest.
+| App | Scale | What I did |
+|---|---|---|
+| [Transparent Live Wallpaper](https://play.google.com/store/apps/details?id=com.ram.transparentlivewallpaper) · [Camera Screen](https://play.google.com/store/apps/details?id=com.raisingapps.transparentlauncher.screenlivewallpaper) | **10M+ each** | Camera Busy crashes traced to a WallpaperService/Camera2 ownership conflict — **92%** crash reduction |
+| [GPS Village Maps](https://play.google.com/store/apps/details?id=com.gpsmaps.villagemaps.directions.whereami.navigation.gpsarea.location.tracker) | **5M+** | ANR **−38%**, cold start **−45%**, 60% of XML migrated to Compose, dual Maps + HERE SDK |
+| [Video AI Player](https://play.google.com/store/apps/details?id=com.rms.videoplayerai.allformat.playvideo) | new | Media3 HLS/DASH/RTSP, Google Cast over an embedded HTTP server, PiP, Transformer editing |
+| [QR & Barcode Scanner](https://play.google.com/store/apps/details?id=com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader) | — | 100% of scanner leaks removed, crash-free 96.1% → **99.4%**, APK **−22%** |
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🗺️ <a href="https://play.google.com/store/apps/details?id=com.gpsmaps.villagemaps.directions.whereami.navigation.gpsarea.location.tracker">GPS Village Maps & Navigation</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
-        <img src="https://img.shields.io/badge/5M%2B_installs-3DDC84?style=flat-square&logo=googleplay&logoColor=white" />
-      </p>
-      <ul>
-        <li>Reduced ANR rate by <b>38%</b> via GPS callback optimization</li>
-        <li>Cut cold start time by <b>45%</b> with lazy DI initialization</li>
-        <li>Migrated 60% of UI from XML → Compose</li>
-        <li>Integrated Google Maps + HERE Maps dual SDK</li>
-        <li>Increased DAU by <b>2.4x</b> post-optimization (Firebase Analytics)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🖼️ <a href="https://play.google.com/store/apps/details?id=com.ram.transparentlivewallpaper">Transparent Live Wallpaper</a> &nbsp;·&nbsp; <a href="https://play.google.com/store/apps/details?id=com.raisingapps.transparentlauncher.screenlivewallpaper">Transparent Camera Screen</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
-        <img src="https://img.shields.io/badge/10M%2B_installs_each-3DDC84?style=flat-square&logo=googleplay&logoColor=white" />
-      </p>
-      <ul>
-        <li>Fixed Camera Busy crashes — <b>92% crash reduction</b></li>
-        <li>Reduced memory footprint by binding Glide + MediaPlayer to lifecycle</li>
-        <li>Resolved WallpaperService ↔ Camera2 lifecycle conflicts</li>
-        <li>Improved battery efficiency with frame-skip rendering logic</li>
-        <li>User retention improved <b>1.8x</b> after stability fixes (Firebase Analytics)</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📸 <a href="https://play.google.com/store/apps/details?id=com.rstech.qrcodescanner.barcode.qrgenarator.qrreader.createqr.barcodereader">QR & Barcode Scanner</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
-      </p>
-      <ul>
-        <li>Eliminated <b>100%</b> of scanner resource leaks via lifecycle-aware coroutines</li>
-        <li>Scan speed improved by <b>3x</b> with thumbnail caching</li>
-        <li>Reduced APK size by <b>22%</b> removing unused ML models</li>
-        <li>Replaced AsyncTask with structured concurrency</li>
-        <li>Crash-free rate improved from 96.1% → <b>99.4%</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎬 <a href="https://play.google.com/store/apps/details?id=com.rms.videoplayerai.allformat.playvideo">Video AI Player — All Format</a></h4>
-      <p>
-        <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
-        <img src="https://img.shields.io/badge/Media3_%2F_ExoPlayer-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Cast-4285F4?style=flat-square&logo=googlecast&logoColor=white" />
-        <img src="https://img.shields.io/badge/Hilt_DI-3DDC84?style=flat-square&logo=android&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>Media3 / ExoPlayer</b> with <b>HLS, DASH and RTSP</b> — local files plus adaptive network streams</li>
-        <li><b>Google Cast</b> with an embedded <b>NanoHTTPD</b> media server, so on-device files stream to a Chromecast</li>
-        <li>Background playback via <b>MediaSessionService</b> foreground service + <b>Picture-in-Picture</b></li>
-        <li>In-app video editing and export on the <b>Media3 Transformer + Effect</b> pipeline</li>
-        <li>Dialogue Boost built on the <b>LoudnessEnhancer</b> audio effect</li>
-        <li>Compose + Material 3 • Hilt • Room • DataStore • Glance widget • Firebase Analytics + Crashlytics • minSdk 26 / targetSdk 36</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+## 📚 Learning right now
 
-### 🚀 My Production Apps — Shipped to Google Play
+**Agentic Android** — apps that expose their own functions so an on-device model can call them:
+`androidx.appfunctions`, ML Kit GenAI, and where the OS is heading with on-device tool calling.
+The interesting part is that the app stops being a UI you tap and becomes something an assistant
+can operate on your behalf.
 
-> **Built from scratch to production** — designed, architected, developed, and shipped independently.
+**Neural networks from the ground up** — working through Karpathy's *Zero to Hero*, building the
+autograd engine and the models by hand rather than importing them, so the on-device inference
+work rests on something I actually understand.
 
-<table>
-  <tr>
-    <td align="left">
-      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
-        <img src="https://play-lh.googleusercontent.com/Iv03utZCQVH3RHz2Hh9A9xqKq6aUU-eiskPmhIe3fsfQfXmWfCwY-gIkuAXmvdnbI25rRW02th65Qtk9lbw8=w240-h480" width="80" align="left" alt="Chitra App Icon" />
-      </a>
-      <b>Chitra: AI Wallpapers</b><br/>
-      AI-powered wallpaper app with curated collections, built end-to-end — from architecture design to Google Play Store release.<br/>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/Room_DB-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/MVVM-00897B?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-      </p>
-      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.chitra.cosmos">
-        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="left">
-      <b>ANTAR — Device Analytics</b><br/>
-      Device intelligence utility surfacing 44+ hardware sensors and real-time system state. Designed, built and released solo.<br/>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" />
-        <img src="https://img.shields.io/badge/Koin_DI-F88909?style=flat-square&logo=kotlin&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sensors-FF5722?style=flat-square&logo=android&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=flat-square&logo=spring&logoColor=white" />
-      </p>
-      <a href="https://play.google.com/store/apps/details?id=com.ashes.dev.works.system.core.internals.antar">
-        <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="250" />
-      </a>
-    </td>
-  </tr>
-</table>
+**Quantization and measurement on real hardware** — running models on the phone, quantizing them,
+and recording tokens/sec, RAM and battery instead of guessing.
 
-<br/>
+**Testing discipline** — JUnit, MockK, Turbine and Robolectric, and getting a suite running in CI
+on apps that do not have one yet.
 
-### ✍️ Writing — Guides I've Published
+## Writing
 
-> Notes I write while figuring things out, published so the next person doesn't have to.
-
-| Guide | Topic |
-|---|---|
-| [**GEMMA4_ON_DEVICE_GUIDE**](https://gist.github.com/ashokvarmamatta) | Running Gemma 4 on Android via the LiteRT LM SDK |
-| [**connect-ai-to-your-app**](https://gist.github.com/ashokvarmamatta) | Multi-provider AI integration cookbook for Android |
-| [**agentic-android-vault-guide**](https://gist.github.com/ashokvarmamatta) | Building an MCP knowledge vault for Android development |
-| [**cloudflare-tunnel-android-guide**](https://gist.github.com/ashokvarmamatta) | Exposing an Android device through Cloudflare tunnels |
-
-<br/>
+[Gemma 4 on Android via LiteRT LM](https://gist.github.com/ashokvarmamatta) ·
+[Multi-provider AI integration for Android](https://gist.github.com/ashokvarmamatta) ·
+[MCP knowledge vault for Android](https://gist.github.com/ashokvarmamatta) ·
+[Android over Cloudflare tunnels](https://gist.github.com/ashokvarmamatta)
 
 <details>
-<summary><b>🔧 More Projects</b></summary>
+<summary><b>More projects</b></summary>
 <br/>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**ProPlayer**](https://github.com/ashokvarmamatta/videoplayer2) | Feature-rich video player with PiP, gestures, subtitles, playlists | Compose, ExoPlayer, Koin, Room |
-| [**WeatherShow KMP**](https://github.com/ashokvarmamatta/WeatherShow-KMP) | Cross-platform weather app — [Live Demo](https://weather-show-kmp.vercel.app) | KMP, Compose Multiplatform, Ktor |
-| [**To Do List Live Wallpaper**](https://github.com/ashokvarmamatta/To_Do_List_Live_Wallpaper) | Interactive live wallpaper displaying to-do tasks on home screen | Kotlin, WallpaperService, Compose |
-| [**GalleryLatest**](https://github.com/ashokvarmamatta/GalleryLatest) | Feature-rich gallery app with GPU-powered image filters and editing | Java, GPU Image, MediaStore |
-| [**BubbleLevel**](https://github.com/ashokvarmamatta/BubbleLevel) | Precision spirit level using accelerometer sensors | Kotlin, SensorManager, Compose |
-| [**MedicineReminder**](https://github.com/ashokvarmamatta/MedicineReminder) | Health utility with scheduled notifications and tracking | Kotlin, AlarmManager, Room |
-| [**PkmSpawn**](https://github.com/ashokvarmamatta/pkmspawn) | Pokemon GO spawn tracker with multi-source web scraping | Kotlin, Web Scraping, Compose, GPX |
+| Project | What it is | Tech |
+|---|---|---|
+| [ProPlayer](https://github.com/ashokvarmamatta/videoplayer2) | Video player — PiP, gestures, subtitles, playlists | Compose, ExoPlayer, Koin, Room |
+| [WeatherShow KMP](https://github.com/ashokvarmamatta/WeatherShow-KMP) | Cross-platform weather — [live demo](https://weather-show-kmp.vercel.app) | KMP, Compose Multiplatform, Ktor |
+| [To Do List Live Wallpaper](https://github.com/ashokvarmamatta/To_Do_List_Live_Wallpaper) | Tasks rendered onto the home screen | Kotlin, WallpaperService |
+| [BubbleLevel](https://github.com/ashokvarmamatta/BubbleLevel) | Spirit level from accelerometer data | Kotlin, SensorManager, Compose |
+| [MedicineReminder](https://github.com/ashokvarmamatta/MedicineReminder) | Scheduled notifications and tracking | Kotlin, AlarmManager, Room |
 
 </details>
 
-<br/>
-
-<!-- GITHUB_ANALYTICS_START -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=1&section=header" width="100%"/>
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=400&lines=%F0%9F%93%8A+GitHub+Analytics" alt="GitHub Analytics" />
-</div>
-
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username=ashokvarmamatta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats&exclude_repo=Advance-Hearing-App" alt="Stats" width="400" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=4&hide=javascript,typescript,html&custom_title=%F0%9F%92%BB+Languages&exclude_repo=Advance-Hearing-App" alt="Languages" width="350" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ashokvarmamatta&hide_border=true&background=0d1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=555555&currStreakNum=00D4AA&sideNums=00D4AA" alt="Streak" width="520" />
+  <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=4&hide=javascript,typescript,html&custom_title=%F0%9F%92%BB+Languages&exclude_repo=Advance-Hearing-App" width="330" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashokvarmamatta&theme=github_dark" alt="Repos/Lang" width="260" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashokvarmamatta&theme=github_dark" alt="Commits/Lang" width="260" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashokvarmamatta&theme=github_dark&utcOffset=5.5" alt="Productive Hours" width="260" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashokvarmamatta&theme=github_dark" alt="Contribution Map" width="95%" />
-</p>
-
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ashokvarmamatta&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="95%" />
-</p>
-</details>
-
-<details>
-<summary><b>🧊 3D Contribution Calendar</b></summary>
-<br/>
-<p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/ashokvarmamatta?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=50&dark=true&widget_size=large" alt="3D Contributions" width="95%" />
-</p>
-</details>
-
-<details>
-<summary><b>🐍 Contribution Snake</b></summary>
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashokvarmamatta/ashokvarmamatta/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
-</details>
-<!-- GITHUB_ANALYTICS_END -->
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00D4AA,100:7C5CFC&height=100&section=footer&text=Let's%20Build%20Something%20Great&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
-</div>
