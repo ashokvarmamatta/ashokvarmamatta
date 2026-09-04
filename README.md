@@ -48,7 +48,7 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
   </tr>
   <tr>
     <td>🚀 <b>Dev Workflow</b></td>
-    <td>AI tooling (Claude Code, Gemini) for <b>code review, test scaffolding, refactoring and research</b> — the architecture decisions, on-device debugging and production fixes stay hands-on. I monitor crashes, reproduce them on real devices, and fix them myself</td>
+    <td>AI-assisted for <b>code review, test scaffolding, refactoring and research</b>. Architecture, on-device debugging and production fixes are hands-on — I reproduce crashes on real devices and fix them myself</td>
   </tr>
   <tr>
     <td>⚡ <b>Key Wins</b></td>
@@ -69,8 +69,8 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
     </td>
     <td align="center" width="25%">
       <b>🎨 UI & Frameworks</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=compose,materialui,firebase&perline=3" /><br/>
-      <sub>Jetpack Compose • Material 3 • Firebase</sub>
+      <img src="https://skillicons.dev/icons?i=materialui,firebase,gradle&perline=3" /><br/>
+      <sub>Material 3 • Firebase • Gradle</sub>
     </td>
     <td align="center" width="25%">
       <b>🌐 Web & Cross-Platform</b><br/><br/>
@@ -112,7 +112,6 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
   <img src="https://img.shields.io/badge/Google_Maps_SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-CC785C?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 <br/>
