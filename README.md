@@ -165,6 +165,21 @@ queries, ordered by document id, need no composite index.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
+### Runs where
+
+One Kotlin codebase, three runtimes — that is Chitra, shipped: **Android**, **Desktop (JVM)** and
+**Web (Wasm + JS)**, through Compose Multiplatform. On Android, three of the apps I work on already
+sit on **targetSdk 37**, where Android 17 removed the large-screen resizability opt-out — so those
+screens have to survive an arbitrary window size whether or not they were designed for one.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Desktop_JVM-007396?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web_Wasm_%2B_JS-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/targetSdk_37-3DDC84?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Edge_to_Edge-4285F4?style=flat-square&logo=android&logoColor=white" />
+</p>
+
 <sub align="center">AI-assisted for code review, test scaffolding, refactoring and research. Architecture, on-device debugging and production fixes are hands-on — I reproduce crashes on real devices and fix them myself.</sub>
 
 ---
@@ -193,6 +208,15 @@ work rests on something I actually understand.
 
 **Quantization and measurement on real hardware** — running models on the phone, quantizing them,
 and recording tokens/sec, RAM and battery instead of guessing.
+
+**Adaptive layout, because Android 17 made it a build gate** — from targetSdk 37 the platform
+ignores orientation, aspect-ratio and resizability restrictions on any display whose smallest width
+is 600dp or more, and the manifest opt-out that existed on Android 16 has been removed. So I am
+moving screens onto layouts keyed on window size class — width first, then height — instead of a
+portrait lock the platform no longer honours, and learning fold-aware placement with
+`FoldingFeature`. The assumption to unlearn is "natural orientation is portrait": trifolds and
+landscape foldables open landscape-first. Android TV is next after that, because a Media3 app with
+HLS and Cast is the shortest path in. Wear OS and Android Auto I have not touched.
 
 **Testing discipline** — JUnit, MockK, Turbine and Robolectric, and getting a suite running in CI
 on apps that do not have one yet.
