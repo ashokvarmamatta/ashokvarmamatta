@@ -165,23 +165,6 @@ queries, ordered by document id, need no composite index.
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### Runs where
-
-One Kotlin codebase, three runtimes — that is Chitra, shipped: **Android**, **Desktop (JVM)** and
-**Web (Wasm + JS)**, through Compose Multiplatform. On Android, three of the apps I work on already
-sit on **targetSdk 37**, where Android 17 removed the large-screen resizability opt-out — so those
-screens have to survive an arbitrary window size whether or not they were designed for one.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Desktop_JVM-007396?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web_Wasm_%2B_JS-654FF0?style=flat-square&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/targetSdk_37-3DDC84?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge_to_Edge-4285F4?style=flat-square&logo=android&logoColor=white" />
-</p>
-
-<sub align="center">AI-assisted for code review, test scaffolding, refactoring and research. Architecture, on-device debugging and production fixes are hands-on — I reproduce crashes on real devices and fix them myself.</sub>
-
 ---
 
 ## At Ramson Softech — apps I work on with the team
