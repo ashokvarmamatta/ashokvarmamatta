@@ -2,6 +2,14 @@
 """
 Builds README.md from TEMPLATE.md by health-checking each GitHub analytics
 service and only including cards that are currently responding (HTTP 200).
+
+Two cards only - stats and languages. The streak, summary cards, trophies,
+activity graph, 3D calendar and snake were dropped: hiring managers discount
+the contribution graph as gameable, and nine widgets buried the parts of the
+profile that say something about the engineering.
+
+The language card hides javascript, typescript and html - those come from
+research, interest and vibe-coded repos where none of the code is mine.
 """
 
 import urllib.request
@@ -22,70 +30,6 @@ SERVICES = [
         "languages",
         f"https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact",
         None  # handled specially in ROW 1
-    ),
-    (
-        "streak",
-        f"https://streak-stats.demolab.com?user={USERNAME}",
-        f'''<p align="center">
-  <img src="https://streak-stats.demolab.com?user={USERNAME}&hide_border=true&background=0d1117&ring=00D4AA&fire=FF6B6B&currStreakLabel=00D4AA&sideLabels=c9d1d9&dates=555555&currStreakNum=00D4AA&sideNums=00D4AA" alt="Streak" width="520" />
-</p>'''
-    ),
-    (
-        "summary_cards",
-        f"https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={USERNAME}&theme=github_dark",
-        f'''<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={USERNAME}&theme=github_dark" alt="Repos/Lang" width="260" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={USERNAME}&theme=github_dark" alt="Commits/Lang" width="260" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username={USERNAME}&theme=github_dark&utcOffset=5.5" alt="Productive Hours" width="260" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={USERNAME}&theme=github_dark" alt="Contribution Map" width="95%" />
-</p>'''
-    ),
-    (
-        "trophies",
-        f"https://github-trophies.vercel.app/?username={USERNAME}&theme=algolia",
-        f'''<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username={USERNAME}&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" width="95%" />
-</p>
-</details>'''
-    ),
-    (
-        "activity_graph",
-        f"https://github-readme-activity-graph.vercel.app/graph?username={USERNAME}",
-        f'''<details>
-<summary><b>📈 Contribution Activity Graph</b></summary>
-<br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username={USERNAME}&bg_color=0d1117&color=00D4AA&line=00D4AA&point=FF6B6B&area=true&area_color=00D4AA&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" width="95%" />
-</p>
-</details>'''
-    ),
-    (
-        "contrib_3d",
-        f"https://ssr-contributions-svg.vercel.app/_/{USERNAME}?chart=3dbar&format=svg&weeks=50&dark=true",
-        f'''<details>
-<summary><b>🧊 3D Contribution Calendar</b></summary>
-<br/>
-<p align="center">
-  <img src="https://ssr-contributions-svg.vercel.app/_/{USERNAME}?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=50&dark=true&widget_size=large" alt="3D Contributions" width="95%" />
-</p>
-</details>'''
-    ),
-    (
-        "snake",
-        f"https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg",
-        f'''<details>
-<summary><b>🐍 Contribution Snake</b></summary>
-<br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/{USERNAME}/{USERNAME}/output/github-snake-dark.svg" alt="Snake Animation" width="100%" />
-</p>
-</details>'''
     ),
 ]
 
@@ -132,7 +76,7 @@ def build_analytics(alive: dict) -> str:
       <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username={USERNAME}&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats&exclude_repo={EXCLUDE_REPOS}" alt="Stats" width="400" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages&exclude_repo={EXCLUDE_REPOS}" alt="Languages" width="350" />
+      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=4&hide=javascript,typescript,html&custom_title=%F0%9F%92%BB+Languages&exclude_repo={EXCLUDE_REPOS}" alt="Languages" width="350" />
     </td>
   </tr>
 </table>''')
@@ -144,7 +88,7 @@ def build_analytics(alive: dict) -> str:
     elif langs_up:
         parts.append(f'''
 <p align="center">
-  <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages&exclude_repo={EXCLUDE_REPOS}" alt="Languages" width="520" />
+  <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=4&hide=javascript,typescript,html&custom_title=%F0%9F%92%BB+Languages&exclude_repo={EXCLUDE_REPOS}" alt="Languages" width="520" />
 </p>''')
 
     # Remaining services — just include their block if alive
