@@ -204,7 +204,7 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
 
 ### 🏢 Production Apps — Company Projects (Ramson Softech)
 
-> Apps I optimized, modernized, and scaled as part of my role. Not my personal repos — these are **live on Google Play** with real users.
+> Apps I optimized, modernized, and scaled as part of my role. Not my personal repos — these are **live on Google Play**, with **10M+ and 5M+ installs** on the two largest.
 
 <table>
   <tr>
@@ -212,6 +212,7 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
       <h4>🗺️ <a href="https://play.google.com/store/apps/details?id=com.gpsmaps.villagemaps.directions.whereami.navigation.gpsarea.location.tracker">GPS Village Maps & Navigation</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+        <img src="https://img.shields.io/badge/5M%2B_installs-3DDC84?style=flat-square&logo=googleplay&logoColor=white" />
       </p>
       <ul>
         <li>Reduced ANR rate by <b>38%</b> via GPS callback optimization</li>
@@ -225,6 +226,7 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
       <h4>🖼️ <a href="https://play.google.com/store/apps/details?id=com.ram.transparentlivewallpaper">Transparent Live Wallpaper</a></h4>
       <p>
         <img src="https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=googleplay&logoColor=white" />
+        <img src="https://img.shields.io/badge/10M%2B_installs-3DDC84?style=flat-square&logo=googleplay&logoColor=white" />
       </p>
       <ul>
         <li>Fixed Camera Busy crashes — <b>92% crash reduction</b></li>
@@ -318,13 +320,12 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
 
 > Notes I write while figuring things out, published so the next person doesn't have to.
 
-| Guide | Topic | ⭐ |
-|---|---|---|
-| [**graphify-mcp-guide**](https://gist.github.com/ashokvarmamatta/344a642e8b5bd286be605a8f439c3848) | Building knowledge graphs + MCP servers so dev tools can navigate a codebase | **57** ★ · 10 forks |
-| [**GEMMA4_ON_DEVICE_GUIDE**](https://gist.github.com/ashokvarmamatta) | Running Gemma 4 on Android via the LiteRT LM SDK | — |
-| [**agentic-android-vault-guide**](https://gist.github.com/ashokvarmamatta) | Building an MCP knowledge vault for Android development | — |
-| [**cloudflare-tunnel-android-guide**](https://gist.github.com/ashokvarmamatta) | Exposing an Android device through Cloudflare tunnels | — |
-| [**connect-ai-to-your-app**](https://gist.github.com/ashokvarmamatta) | Multi-provider AI integration cookbook for Android | — |
+| Guide | Topic |
+|---|---|
+| [**GEMMA4_ON_DEVICE_GUIDE**](https://gist.github.com/ashokvarmamatta) | Running Gemma 4 on Android via the LiteRT LM SDK |
+| [**connect-ai-to-your-app**](https://gist.github.com/ashokvarmamatta) | Multi-provider AI integration cookbook for Android |
+| [**agentic-android-vault-guide**](https://gist.github.com/ashokvarmamatta) | Building an MCP knowledge vault for Android development |
+| [**cloudflare-tunnel-android-guide**](https://gist.github.com/ashokvarmamatta) | Exposing an Android device through Cloudflare tunnels |
 
 <br/>
 
@@ -360,7 +361,7 @@ I am an **Android Developer** based in Hyderabad, India, specializing in high-pe
       <img src="https://github-readme-stats-gamma-one-20.vercel.app/api?username=ashokvarmamatta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00D4AA&icon_color=00D4AA&text_color=c9d1d9&ring_color=00D4AA&count_private=true&include_all_commits=true&custom_title=%E2%9A%A1+Stats&exclude_repo=Advance-Hearing-App" alt="Stats" width="400" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=6&custom_title=%F0%9F%92%BB+Languages&exclude_repo=Advance-Hearing-App" alt="Languages" width="350" />
+      <img src="https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username=ashokvarmamatta&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D4AA&text_color=c9d1d9&langs_count=4&hide=javascript,typescript,html&custom_title=%F0%9F%92%BB+Languages&exclude_repo=Advance-Hearing-App" alt="Languages" width="350" />
     </td>
   </tr>
 </table>
