@@ -3,7 +3,7 @@
 Builds README.md from TEMPLATE.md by health-checking each GitHub analytics
 service and only including cards that are currently responding (HTTP 200).
 
-Two cards only - stats and languages. The streak, summary cards, trophies,
+No cards since 2026-09-18 (SERVICES is empty). Before that: two cards - stats and languages. The streak, summary cards, trophies,
 activity graph, 3D calendar and snake were dropped: hiring managers discount
 the contribution graph as gameable, and nine widgets buried the parts of the
 profile that say something about the engineering.
@@ -20,18 +20,9 @@ EXCLUDE_REPOS = "Advance-Hearing-App"  # hidden from stats & language cards
 
 # ── Services to check ──────────────────────────────────────────────
 # Each entry: (name, test_url, markdown_block)
-SERVICES = [
-    (
-        "stats",
-        f"https://github-readme-stats-gamma-one-20.vercel.app/api?username={USERNAME}",
-        None  # handled specially in ROW 1
-    ),
-    (
-        "languages",
-        f"https://github-readme-stats-gamma-one-20.vercel.app/api/top-langs/?username={USERNAME}&layout=compact",
-        None  # handled specially in ROW 1
-    ),
-]
+SERVICES = []  # 2026-09-18: stat + language cards removed - none of the strongest
+              # Android profiles use them (see AiInstructer research/portfolio-benchmark-2026-09-18).
+              # The marker pair in TEMPLATE.md stays so cards can be re-added here.
 
 
 def check_url(url: str, timeout: int = 10) -> bool:
